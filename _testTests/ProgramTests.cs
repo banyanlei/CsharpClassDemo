@@ -18,5 +18,13 @@ namespace _test.Tests
             Assert.IsTrue(Program.Add(1, 2, 3) == 3);
             Assert.IsTrue(Program.RunAisgDeviceScan(out deviceType) == "world");
         }
+
+        [TestMethod()]
+        public void MainTest1()
+        {
+            string deviceType, val;
+            Assert.IsTrue(Program.Add(1, 2, 3) == 3);
+            Assert.IsTrue(Program.RunAisgDeviceScan(out deviceType) == "world1");
+        }
     }
 }
