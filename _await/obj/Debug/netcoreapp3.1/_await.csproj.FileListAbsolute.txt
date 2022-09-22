@@ -1,0 +1,11 @@
+F:\C# test\Classdemo\_await\bin\Debug\netcoreapp3.1\_await.exe
+F:\C# test\Classdemo\_await\bin\Debug\netcoreapp3.1\_await.deps.json
+F:\C# test\Classdemo\_await\bin\Debug\netcoreapp3.1\_await.runtimeconfig.json
+F:\C# test\Classdemo\_await\bin\Debug\netcoreapp3.1\_await.runtimeconfig.dev.json
+F:\C# test\Classdemo\_await\bin\Debug\netcoreapp3.1\_await.dll
+F:\C# test\Classdemo\_await\bin\Debug\netcoreapp3.1\_await.pdb
+F:\C# test\Classdemo\_await\obj\Debug\netcoreapp3.1\_await.csprojAssemblyReference.cache
+F:\C# test\Classdemo\_await\obj\Debug\netcoreapp3.1\_await.AssemblyInfoInputs.cache
+F:\C# test\Classdemo\_await\obj\Debug\netcoreapp3.1\_await.AssemblyInfo.cs
+F:\C# test\Classdemo\_await\obj\Debug\netcoreapp3.1\_await.dll
+F:\C# test\Classdemo\_await\obj\Debug\netcoreapp3.1\_await.pdb
