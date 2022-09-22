@@ -1,0 +1,14 @@
+C:\CAYA\cy\classdemo\_Lambda2\bin\Debug\_Lambda2.exe.config
+C:\CAYA\cy\classdemo\_Lambda2\bin\Debug\_Lambda2.exe
+C:\CAYA\cy\classdemo\_Lambda2\bin\Debug\_Lambda2.pdb
+C:\CAYA\cy\classdemo\_Lambda2\obj\Debug\_Lambda2.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\classdemo\_Lambda2\obj\Debug\_Lambda2.exe
+C:\CAYA\cy\classdemo\_Lambda2\obj\Debug\_Lambda2.pdb
+C:\CAYA\cy\classdemo\_Lambda2\obj\Debug\_Lambda2.csprojAssemblyReference.cache
+C:\CAYA\cy\c# test\classdemo\_Lambda2\bin\Debug\_Lambda2.exe.config
+C:\CAYA\cy\c# test\classdemo\_Lambda2\bin\Debug\_Lambda2.exe
+C:\CAYA\cy\c# test\classdemo\_Lambda2\bin\Debug\_Lambda2.pdb
+C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.csprojAssemblyReference.cache
+C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.exe
+C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.pdb

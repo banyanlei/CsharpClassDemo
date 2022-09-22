@@ -1,0 +1,13 @@
+C:\CAYA\cy\classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe.config
+C:\CAYA\cy\classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe
+C:\CAYA\cy\classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.pdb
+C:\CAYA\cy\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.exe
+C:\CAYA\cy\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.pdb
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe.config
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.pdb
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csprojAssemblyReference.cache
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.exe
+C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.pdb

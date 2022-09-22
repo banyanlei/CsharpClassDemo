@@ -1,0 +1,13 @@
+C:\CAYA\cy\classdemo\_test\bin\Debug\_test.exe.config
+C:\CAYA\cy\classdemo\_test\bin\Debug\_test.exe
+C:\CAYA\cy\classdemo\_test\bin\Debug\_test.pdb
+C:\CAYA\cy\classdemo\_test\obj\Debug\_YuSymbol.csprojAssemblyReference.cache
+C:\CAYA\cy\classdemo\_test\obj\Debug\_YuSymbol.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\classdemo\_test\obj\Debug\_test.exe
+C:\CAYA\cy\classdemo\_test\obj\Debug\_test.pdb
+C:\CAYA\cy\c# test\classdemo\_test\bin\Debug\_test.exe.config
+C:\CAYA\cy\c# test\classdemo\_test\bin\Debug\_test.exe
+C:\CAYA\cy\c# test\classdemo\_test\bin\Debug\_test.pdb
+C:\CAYA\cy\c# test\classdemo\_test\obj\Debug\_YuSymbol.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\classdemo\_test\obj\Debug\_test.exe
+C:\CAYA\cy\c# test\classdemo\_test\obj\Debug\_test.pdb

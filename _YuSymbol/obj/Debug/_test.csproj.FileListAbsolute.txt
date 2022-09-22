@@ -1,0 +1,6 @@
+C:\CAYA\cy\classdemo\_test\bin\Debug\_test.exe.config
+C:\CAYA\cy\classdemo\_test\bin\Debug\_test.exe
+C:\CAYA\cy\classdemo\_test\bin\Debug\_test.pdb
+C:\CAYA\cy\classdemo\_test\obj\Debug\_test.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\classdemo\_test\obj\Debug\_test.exe
+C:\CAYA\cy\classdemo\_test\obj\Debug\_test.pdb
