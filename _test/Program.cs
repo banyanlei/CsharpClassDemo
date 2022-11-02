@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace _test
@@ -26,6 +27,13 @@ namespace _test
             //int a = System.BitConverter.ToInt32(date,0);
 
 
+            //string deviceType, val;
+            //val = RunAisgDeviceScan(out deviceType);
+            //uint max = uint.MaxValue;//4294967295
+
+            string responsePower = "-54.581 -106.330  -54.730 -106.330  -54.864 -106.330  -54.875 -106.330  -55.501 -106.330  -55.406 -106.330";
+            var powers = Regex.Matches(responsePower, @"[\-\d.]+").Select(m => double.Parse(m.Value)); ;
+
 
 
             string deviceType, val;
@@ -33,6 +41,9 @@ namespace _test
             uint max = uint.MaxValue;//4294967295
 
         }
+
+
+
         static string value;
         public static string RunAisgDeviceScan(out string deviceType)
         {

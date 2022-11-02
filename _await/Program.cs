@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net.Http;
+using System.Threading;
 using System.Threading.Tasks;
 
 public class AwaitOperator
@@ -8,7 +9,11 @@ public class AwaitOperator
     {
         Task<int> downloading = DownloadDocsMainPageAsync();
         Console.WriteLine($"{nameof(Main)}: Launched downloading.");
-
+        for (int i = 0; i < 100; i++)
+        {
+            Console.WriteLine(i);
+            Thread.Sleep(4);
+        }
         int bytesLoaded = await downloading;
         Console.WriteLine($"{nameof(Main)}: Downloaded {bytesLoaded} bytes.");
     }
