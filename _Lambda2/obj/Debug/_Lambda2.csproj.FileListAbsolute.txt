@@ -12,3 +12,11 @@ C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.csprojAssemblyReference
 C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.exe
 C:\CAYA\cy\c# test\classdemo\_Lambda2\obj\Debug\_Lambda2.pdb
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\bin\Debug\_Lambda2.exe.config
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\bin\Debug\_Lambda2.exe
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\bin\Debug\_Lambda2.pdb
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\obj\Debug\_Lambda2.csproj.AssemblyReference.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\obj\Debug\_Lambda2.csproj.SuggestedBindingRedirects.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\obj\Debug\_Lambda2.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\obj\Debug\_Lambda2.exe
+C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda2\obj\Debug\_Lambda2.pdb

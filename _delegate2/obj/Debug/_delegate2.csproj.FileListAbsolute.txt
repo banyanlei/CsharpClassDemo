@@ -5,3 +5,11 @@ C:\CAYA\cy\c# test\classdemo\_delegate2\obj\Debug\_delegate2.csprojAssemblyRefer
 C:\CAYA\cy\c# test\classdemo\_delegate2\obj\Debug\_delegate2.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\classdemo\_delegate2\obj\Debug\_delegate2.exe
 C:\CAYA\cy\c# test\classdemo\_delegate2\obj\Debug\_delegate2.pdb
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\bin\Debug\_delegate2.exe.config
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\bin\Debug\_delegate2.exe
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\bin\Debug\_delegate2.pdb
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.csproj.AssemblyReference.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.csproj.SuggestedBindingRedirects.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.exe
+C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.pdb
