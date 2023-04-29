@@ -1,0 +1,15 @@
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\SelectCommon.exe
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\SelectCommon.deps.json
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\SelectCommon.runtimeconfig.json
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\SelectCommon.dll
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\SelectCommon.pdb
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.csproj.AssemblyReference.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.AssemblyInfoInputs.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.AssemblyInfo.cs
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.dll
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\refint\SelectCommon.dll
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.pdb
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\SelectCommon.genruntimeconfig.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\ref\SelectCommon.dll

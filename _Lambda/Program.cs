@@ -25,7 +25,8 @@ namespace _Lambda
             //(delegate (People p) { return p.age > 20; });
 
             //lambda
-            List<People> results = people.Where(x => x.age > 20).ToList();
+            //List<People> results = people.Where(x => x.age > 20).ToList();
+            var results = people.Where(x => x.age > 20);
             int results1 = people.Count(x => (x.age == 21))+ people.Count(x => (x.name.Equals("guojing")));
             foreach (var item in results)
             {
