@@ -102,15 +102,16 @@ var result1 = names.Select(x => x.ToUpper().Replace('E', 'o'));
 #endregion
 
 #region Groupby
+//lambda express & query express
 
 var rnd = new Random(2);
 var arr = Enumerable.Range(0,200).Select(a=>rnd.Next(50)) ;
-var res = arr.GroupBy(x => x).Select(g => new { g.Key, Count = g.Count() }).OrderBy(g=> g.Key);
-foreach (var item in res)
-{
-    Console.WriteLine("Key="+item.Key + "\tTotal:" + item.Count);
+//var res = arr.GroupBy(x => x).Select(g => new { g.Key, Count = g.Count() }).OrderBy(g=> g.Key);
+//foreach (var item in res)
+//{
+//    Console.WriteLine("Key="+item.Key + "\tTotal:" + item.Count);
 
-}
+//}
 
 //var res = arr.GroupBy(x => x).ToDictionary(x=>x.Key , x=>x.Count());
 //foreach (var item in res)
@@ -118,4 +119,14 @@ foreach (var item in res)
 //    Console.WriteLine(item.Key + "\t" + item.Value);
 
 //}
+var res =
+    from x in arr
+    group x by x into g
+    select new { g.Key, count = g.Count() };
+foreach (var item in res)
+{
+    Console.WriteLine(item.Key + "\t" + item.count);
+
+}
+
 #endregion

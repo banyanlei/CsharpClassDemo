@@ -1,0 +1,132 @@
+arduino_inputs_execution.yaml
+1524 radio aas v2.2__generated.json
+
+# pickle
+**/*.pkl
+
+# sqlite databases
+**/*.sqlite
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+**/__pycache__
+**/requests_cache
+
+# Django default database name
+**/db.sqlite3
+
+# Visual Studio Code
+**/.vscode
+
+gui.ini
+*.log
+*.pyc
+*.*~
+*.rtf
+*.findings
+~$*.docx
+scRFDSP_R3E_mcr
+
+# Criteria file zip
+**/criteria.zip
+
+# Ignore generated files for testnet
+/UE3_5/DUT/*
+
+**/fake_horizon/**/venv
+
+
+## Ignore Visualt Studio stuff below
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+/startkit/tools and examples/datalake/.vscode/settings.json
+/Pegasus/AccessSimulationLog.txt
+
+/Pegasus/scripts/rru/Evm.html
+/Pegasus/scripts/rru/EVM.png
+/Pegasus/scripts/rru/TestEVM.png
+/Pegasus/Evm.html
+/Pegasus/EVM.png
+# pegasus IF board gui (C# DLLs)
+/Pegasus/ifb_gui/
+/Pegasus/eeprom_backups/*
+
+/startkit/tools and examples/multi dut/dotnet_client/Newton Testmethods/TestCase/Aurora/
+/startkit/tools and examples/multi dut/dotnet_client/PYRO Client/CYA103xxx3_1-Ericsson.SC.TypeLibrary/Dependencies/
+/startkit/tools and examples/multi dut/dotnet_client/PYRO Client/CYA103xxx3_1-Ericsson.SC.TypeLibrary/Target/
+/startkit/tools and examples/multi dut/dotnet_client/PYRO Client/CYA103xxx1_1-Ericsson.Newton.Pyrolite/Dependencies/
+/startkit/tools and examples/multi dut/dotnet_client/PYRO Client/CYA103xxx1_1-Ericsson.Newton.Pyrolite/Target/
+/startkit/tools and examples/multi dut/dotnet_client/PYRO Client/CYA103xxx2_1-Ericsson.TM.TxPerformance/Dependencies/
+/startkit/tools and examples/multi dut/dotnet_client/PYRO Client/CYA103xxx2_1-Ericsson.TM.TxPerformance/Target/
+
+
+# Ignore python module build files
+/python_modules/**/*.egg-info
+Newton_temp/Ericsson.Newtone.RumaServer/Target/
+/Newton/TestClient/Ericsson.TC.DutParameterParser/Target
+/Newton/TestClient/Ericsson.TC.TestRequirementParser/Target
+/Newton/TestClient/Targets
