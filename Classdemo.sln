@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Lambda_SelectMany", "_Lamb
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Lazy", "_Lazy\_Lazy.csproj", "{357E68C2-74D3-45A2-9D48-7F35252A940E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_Common", "SelectCommon\LINQ_Common.csproj", "{FA163924-2874-4601-84F4-9686090ABF38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Common", "SelectCommon\LINQ_Common.csproj", "{FA163924-2874-4601-84F4-9686090ABF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{F6618766-51EE-4325-AD55-0C88457E3941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{FA163924-2874-4601-84F4-9686090ABF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA163924-2874-4601-84F4-9686090ABF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA163924-2874-4601-84F4-9686090ABF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6618766-51EE-4325-AD55-0C88457E3941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6618766-51EE-4325-AD55-0C88457E3941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6618766-51EE-4325-AD55-0C88457E3941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6618766-51EE-4325-AD55-0C88457E3941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
