@@ -1,6 +1,9 @@
 arduino_inputs_execution.yaml
 1524 radio aas v2.2__generated.json
 
+# caya
+*.editorconfig
+
 # pickle
 **/*.pkl
 
@@ -20,6 +23,8 @@ export_presets.cfg
 
 # Visual Studio Code
 **/.vscode
+
+
 
 gui.ini
 *.log
