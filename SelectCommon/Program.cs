@@ -25,6 +25,9 @@
 #region Select
 //Select 操作符用于对数据源中的每个元素进行投影操作，将其转换为新的类型或格式。它接受一个 Lambda 表达式作为参数，该 Lambda 表达式返回一个新的值，表示对元素的投影操作。KC
 
+using System.Globalization;
+using System.Text.RegularExpressions;
+
 string[] names = { "Alice", "Bob", "Charlie" };
 var result1 = names.Select(x => x.ToUpper().Replace('E', 'o'));
 //foreach (var item in result1)
@@ -128,5 +131,58 @@ foreach (var item in res)
     Console.WriteLine(item.Key + "\t" + item.count);
 
 }
+
+#endregion
+
+#region torpm R5A
+
+List<int> branchs = new List<int>() { 1 };
+Dictionary<int, List<double>> wawa = new Dictionary<int, List<double>>();
+
+for (int i = 0; i < 3; i++)
+{
+    //string responsePower = DutCommunication.SendReceive($"torpm {DutHelper.ConvertBranchesToEtswString(branches)} {samples}");
+    var responsePower = "-18.234 -18.234";
+    var powers = Regex.Matches(responsePower, @"[\-\d.]+").Select(m => double.Parse(m.Value, CultureInfo.InvariantCulture));
+
+    if (powers.Count() == branchs.Count() * 2)
+    {
+        var powerPerBranch = Enumerable.Range(0, 2).Select(i => new List<double>(powers.Skip(i * 2).Take(2)));
+        wawa = branchs.Zip(powerPerBranch).ToDictionary(x => x.First, x => x.Second);
+        int a;
+    }
+}
+
+#endregion
+
+#region torpm R4A
+//List<int> branches = new List<int>() { 1 };
+//Dictionary<int, List<double>> wawa = new Dictionary<int, List<double>>();
+//Dictionary<int, List<double>> branchPowers = new Dictionary<int, List<double>>();
+
+//for (int i = 0; i < 3; i++)
+//{
+//    string answer = "-18.234 -18.233";
+//    answer = answer.Replace("  ", " ");
+//    List<string> answerList = new List<string>(answer.Split(' '));
+//    if (answerList.Count != branches.Count * 2)
+//        throw new AmbiguousMatchException($"Number of result list: {answerList.Count} need to be equal with branches count: {branches.Count} * 2");
+//    //Split values into one list for each branch
+//    List<double> tempValues = new List<double>();
+//    foreach (string value in answerList)
+//    {
+//        tempValues.Add(Convert.ToDouble(value, CultureInfo.InvariantCulture));
+//        if (answerList.IndexOf(value) % 2 != 0)
+//        {
+//            branchPowers.Add(branches[answerList.IndexOf(value) / 2], tempValues);
+//            tempValues = new List<double>();
+//        }
+//    }
+
+//    if (branchPowers.Count != 0)
+//        break;
+//}
+
+//int a;
 
 #endregion
