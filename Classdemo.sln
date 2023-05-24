@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Lazy", "_Lazy\_Lazy.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ_Common", "SelectCommon\LINQ_Common.csproj", "{FA163924-2874-4601-84F4-9686090ABF38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{F6618766-51EE-4325-AD55-0C88457E3941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse", "IfElse\IfElse.csproj", "{F6618766-51EE-4325-AD55-0C88457E3941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_InvariantCulture", "testTemp\_InvariantCulture.csproj", "{5B0019B0-1039-41DC-B263-F827F94EC136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{F6618766-51EE-4325-AD55-0C88457E3941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6618766-51EE-4325-AD55-0C88457E3941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6618766-51EE-4325-AD55-0C88457E3941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0019B0-1039-41DC-B263-F827F94EC136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0019B0-1039-41DC-B263-F827F94EC136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0019B0-1039-41DC-B263-F827F94EC136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0019B0-1039-41DC-B263-F827F94EC136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

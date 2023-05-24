@@ -31,7 +31,10 @@ namespace _test
             //val = RunAisgDeviceScan(out deviceType);
             //uint max = uint.MaxValue;//4294967295
 
-            string responsePower = "-54.581 -106.330  -54.730 -106.330  -54.864 -106.330  -54.875 -106.330  -55.501 -106.330  -55.406 -106.330";
+            //string responsePower = "-54.581 -106.330  -54.730 -106.330  -54.864 -106.330  -54.875 -106.330  -55.501 -106.330  -55.406 -106.330";
+            var responsePower = new List<double>(){ 1,2};
+            var result = responsePower.Skip(2).Take(2);
+
             //var powers = Regex.Matches(responsePower, @"[\-\d.]+").Select(m => double.Parse(m.Value));
 
 

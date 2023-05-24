@@ -85,7 +85,23 @@ var result1 = names.Select(x => x.ToUpper().Replace('E', 'o'));
 //var pageSize = 10;
 //var pageIndex = 2;
 //var page = persons.OrderBy(p => p.LastName).Skip(pageSize * pageIndex).Take(pageSize);
+int[] grades = { 59, 82, 70, 56, 92, 98, 85 };
 
+Console.WriteLine("All grades except the first three:");
+foreach (int grade in grades.Skip(3))
+{
+    Console.WriteLine(grade);
+}
+
+/*
+ This code produces the following output:
+
+All grades except the first three:
+ 56
+ 92
+ 98
+ 85
+*/
 #endregion
 
 #region InterSection
@@ -134,20 +150,62 @@ foreach (var item in res)
 
 #endregion
 
+#region Range
+// Generate a sequence of integers from 1 to 10
+// and then select their squares.
+IEnumerable<int> squares = Enumerable.Range(1, 10).Select(x => x * x);
+
+foreach (int num in squares)
+{
+    Console.WriteLine(num);
+}
+
+/*
+ This code produces the following output:
+
+ 1
+ 4
+ 9
+ 16
+ 25
+ 36
+ 49
+ 64
+ 81
+ 100
+*/
+#endregion
+#region zip
+int[] numbers = { 1, 2, 3, 4 };
+string[] words = { "one", "two", "three" };
+
+var numbersAndWords = numbers.Zip(words, (first, second) => first + " " + second);
+
+foreach (var item in numbersAndWords)
+    Console.WriteLine(item);
+
+// This code produces the following output:
+
+// 1 one
+// 2 two
+// 3 three
+#endregion
+
 #region torpm R5A
 
-List<int> branchs = new List<int>() { 1 };
+List<int> branchs = new List<int>() { 1,2 };
 Dictionary<int, List<double>> wawa = new Dictionary<int, List<double>>();
 
 for (int i = 0; i < 3; i++)
 {
     //string responsePower = DutCommunication.SendReceive($"torpm {DutHelper.ConvertBranchesToEtswString(branches)} {samples}");
-    var responsePower = "-18.234 -18.234";
+    var responsePower = "1 2 3 4";
     var powers = Regex.Matches(responsePower, @"[\-\d.]+").Select(m => double.Parse(m.Value, CultureInfo.InvariantCulture));
 
     if (powers.Count() == branchs.Count() * 2)
     {
-        var powerPerBranch = Enumerable.Range(0, 2).Select(i => new List<double>(powers.Skip(i * 2).Take(2)));
+        //Select里的i和循环里的没有关系，i是Range的start:0 开始
+        var powerPerBranch = Enumerable.Range(0, branchs.Count()).Select(i => new List<double>(powers.Skip(i * 2).Take(2)));
         wawa = branchs.Zip(powerPerBranch).ToDictionary(x => x.First, x => x.Second);
         int a;
     }
