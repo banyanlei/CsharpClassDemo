@@ -1,7 +1,6 @@
 F:\C# test\Classdemo\Lock\bin\Debug\Lock.exe.config
 F:\C# test\Classdemo\Lock\bin\Debug\Lock.exe
 F:\C# test\Classdemo\Lock\bin\Debug\Lock.pdb
-F:\C# test\Classdemo\Lock\obj\Debug\Lock.csprojAssemblyReference.cache
 F:\C# test\Classdemo\Lock\obj\Debug\Lock.exe
 F:\C# test\Classdemo\Lock\obj\Debug\Lock.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\bin\Debug\Lock.exe.config
@@ -12,3 +11,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.csproj.SuggestedBindingRe
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.pdb
+F:\C# test\Classdemo\Lock\obj\Debug\Lock.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\Lock\obj\Debug\Lock.csproj.SuggestedBindingRedirects.cache
+F:\C# test\Classdemo\Lock\obj\Debug\Lock.csproj.CoreCompileInputs.cache

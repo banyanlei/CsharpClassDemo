@@ -8,7 +8,6 @@ C:\CAYA\cy\c# test\classdemo\_testEXE\obj\Debug\_testEXE.pdb
 F:\C# test\Classdemo\_testEXE\bin\Debug\_testEXE.exe.config
 F:\C# test\Classdemo\_testEXE\bin\Debug\_testEXE.exe
 F:\C# test\Classdemo\_testEXE\bin\Debug\_testEXE.pdb
-F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csprojAssemblyReference.cache
 F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.exe
 F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\_testEXE\bin\Debug\_testEXE.exe.config
@@ -19,3 +18,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.csproj.SuggestedB
 C:\CAYA\cy\c# test\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.pdb
+F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csproj.SuggestedBindingRedirects.cache
+F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csproj.CoreCompileInputs.cache

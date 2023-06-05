@@ -15,7 +15,6 @@ C:\CAYA\cy\c# test\classdemo\_Lambda\obj\Debug\_Lambda.pdb
 F:\C# test\Classdemo\_Lambda\bin\Debug\_Lambda.exe.config
 F:\C# test\Classdemo\_Lambda\bin\Debug\_Lambda.exe
 F:\C# test\Classdemo\_Lambda\bin\Debug\_Lambda.pdb
-F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csprojAssemblyReference.cache
 F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.exe
 F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda\bin\Debug\_Lambda.exe.config
@@ -26,3 +25,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.csproj.SuggestedBin
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.pdb
+F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csproj.SuggestedBindingRedirects.cache
+F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csproj.CoreCompileInputs.cache

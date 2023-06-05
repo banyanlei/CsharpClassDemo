@@ -17,7 +17,6 @@ F:\C# test\Classdemo\_testTests\bin\Debug\_test.exe
 F:\C# test\Classdemo\_testTests\bin\Debug\_test.pdb
 F:\C# test\Classdemo\_testTests\bin\Debug\_test.exe.config
 F:\C# test\Classdemo\_testTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.csprojAssemblyReference.cache
 F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.csproj.CopyComplete
 F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.dll
 F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.pdb
@@ -33,3 +32,5 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_testTests\obj\Debug\_testTests.csproj.CoreCo
 C:\CAYA\cy\c# test\CsharpClassDemo\_testTests\obj\Debug\_testTests.csproj.CopyComplete
 C:\CAYA\cy\c# test\CsharpClassDemo\_testTests\obj\Debug\_testTests.dll
 C:\CAYA\cy\c# test\CsharpClassDemo\_testTests\obj\Debug\_testTests.pdb
+F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.csproj.CoreCompileInputs.cache

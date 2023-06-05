@@ -33,7 +33,7 @@ namespace LeeCarry
             {
                 for (int i = 0; i <= 10000; i += 2)
                 {
-                    //Console.WriteLine("线程1:{0}", i);
+                    Console.WriteLine("线程1:{0}", i);
                     dic.Add(i, i.ToString());
                     //dic.TryAdd(i, i.ToString());
                 }

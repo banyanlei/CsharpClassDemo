@@ -13,3 +13,11 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.csproj.Sugges
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate2\obj\Debug\_delegate2.pdb
+F:\C# test\Classdemo\_delegate2\bin\Debug\_delegate2.exe.config
+F:\C# test\Classdemo\_delegate2\bin\Debug\_delegate2.exe
+F:\C# test\Classdemo\_delegate2\bin\Debug\_delegate2.pdb
+F:\C# test\Classdemo\_delegate2\obj\Debug\_delegate2.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\_delegate2\obj\Debug\_delegate2.csproj.SuggestedBindingRedirects.cache
+F:\C# test\Classdemo\_delegate2\obj\Debug\_delegate2.csproj.CoreCompileInputs.cache
+F:\C# test\Classdemo\_delegate2\obj\Debug\_delegate2.exe
+F:\C# test\Classdemo\_delegate2\obj\Debug\_delegate2.pdb

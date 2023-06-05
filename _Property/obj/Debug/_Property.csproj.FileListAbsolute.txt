@@ -15,7 +15,6 @@ C:\CAYA\cy\c# test\classdemo\_Property\obj\Debug\_Property.pdb
 F:\C# test\Classdemo\_Property\bin\Debug\_Property.exe.config
 F:\C# test\Classdemo\_Property\bin\Debug\_Property.exe
 F:\C# test\Classdemo\_Property\bin\Debug\_Property.pdb
-F:\C# test\Classdemo\_Property\obj\Debug\_Property.csprojAssemblyReference.cache
 F:\C# test\Classdemo\_Property\obj\Debug\_Property.exe
 F:\C# test\Classdemo\_Property\obj\Debug\_Property.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\_Property\bin\Debug\_Property.exe.config
@@ -26,3 +25,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_Property\obj\Debug\_Property.csproj.Suggeste
 C:\CAYA\cy\c# test\CsharpClassDemo\_Property\obj\Debug\_Property.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_Property\obj\Debug\_Property.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_Property\obj\Debug\_Property.pdb
+F:\C# test\Classdemo\_Property\obj\Debug\_Property.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\_Property\obj\Debug\_Property.csproj.SuggestedBindingRedirects.cache
+F:\C# test\Classdemo\_Property\obj\Debug\_Property.csproj.CoreCompileInputs.cache

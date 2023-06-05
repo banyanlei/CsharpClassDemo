@@ -8,7 +8,6 @@ C:\CAYA\cy\c# test\classdemo\_delegate1\obj\Debug\_delegate1.pdb
 F:\C# test\Classdemo\_delegate1\bin\Debug\_delegate1.exe.config
 F:\C# test\Classdemo\_delegate1\bin\Debug\_delegate1.exe
 F:\C# test\Classdemo\_delegate1\bin\Debug\_delegate1.pdb
-F:\C# test\Classdemo\_delegate1\obj\Debug\_delegate1.csprojAssemblyReference.cache
 F:\C# test\Classdemo\_delegate1\obj\Debug\_delegate1.exe
 F:\C# test\Classdemo\_delegate1\obj\Debug\_delegate1.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\bin\Debug\_delegate1.exe.config
@@ -19,3 +18,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.csproj.Sugges
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.pdb
+F:\C# test\Classdemo\_delegate1\obj\Debug\_delegate1.csproj.AssemblyReference.cache
+F:\C# test\Classdemo\_delegate1\obj\Debug\_delegate1.csproj.SuggestedBindingRedirects.cache
+F:\C# test\Classdemo\_delegate1\obj\Debug\_delegate1.csproj.CoreCompileInputs.cache
