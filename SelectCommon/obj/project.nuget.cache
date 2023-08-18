@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9tnsF8stjoUKv8XBA0GUdHOZxjmkSAtoXBl3StrSZmcXnBMxFdnb2ZNKVBgs8CbsvPr+mhNbXvyEdq0qyt9TQ==",
+  "dgSpecHash": "OpJFRAGc4rBhhJVtuSmNlntRXs0F1CDsgviJng5mjXCqK1xxc74awfubvs+VJ5R26KG8vDVmV7jwcE/t5vo8FA==",
   "success": true,
-  "projectFilePath": "F:\\C# test\\Classdemo\\SelectCommon\\LINQ_Common.csproj",
+  "projectFilePath": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\SelectCommon\\LINQ_Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

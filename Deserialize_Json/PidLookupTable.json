@@ -1,0 +1,5253 @@
+//3_00651-HSD101101_AM_2022-09-15
+[
+  "1/KRC 161 912/3"
+  :
+  {
+    "MarketName": "Radio 2260 22B2/B25 22B66 C",
+    "ProductName": "RRU2260"
+  },
+  "KRC 161 0001/1"
+  :
+  {
+    "MarketName": "Radio 8863 B78AA",
+    "ProductName": "RRU8863"
+  },
+  "KRC 161 0002/2"
+  :
+  {
+    "MarketName": "Radio 44Sn B43",
+    "ProductName": "RRU44Sn"
+  },
+  "KRC 161 0003/1"
+  :
+  {
+    "MarketName": "Radio 4020 B75",
+    "ProductName": "RRU4020"
+  },
+  "KRC 161 0004/1"
+  :
+  {
+    "MarketName": "Radio 6646 66B8 66B20 66B28B C",
+    "ProductName": "RRU6646"
+  },
+  "KRC 161 0005/1"
+  :
+  {
+    "MarketName": "Radio 4429 B8A",
+    "ProductName": "RRU4429"
+  },
+  "KRC 161 0013/1"
+  :
+  {
+    "MarketName": "Radio 8863 B41 HP",
+    "ProductName": "RRU8863"
+  },
+  "KRC 161 0014/1"
+  :
+  {
+    "MarketName": "Radio 2212 B8C",
+    "ProductName": "RRU2212"
+  },
+  "KRC 161 0016/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B26 44B71 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 0030/1"
+  :
+  {
+    "MarketName": "Radio 4408 B77G",
+    "ProductName": "RRU4408"
+  },
+  "KRC 161 0037/3"
+  :
+  {
+    "MarketName": "Radio 4467 44B77D 44B77G C",
+    "ProductName": "RRU4467"
+  },
+  "KRC 161 427/1"
+  :
+  {
+    "MarketName": "Radio 2217 B3",
+    "ProductName": "RRUS2217B3"
+  },
+  "KRC 161 427/2"
+  :
+  {
+    "MarketName": "Radio 2217 B3",
+    "ProductName": "RRUS2217B3"
+  },
+  "KRC 161 428/1"
+  :
+  {
+    "MarketName": "Radio 2217 B7",
+    "ProductName": "RRUS2217B7"
+  },
+  "KRC 161 428/2"
+  :
+  {
+    "MarketName": "Radio 2217 B7",
+    "ProductName": "RRUS2217B7"
+  },
+  "KRC 161 429/1"
+  :
+  {
+    "MarketName": "Radio 2217 B12A",
+    "ProductName": "RRUS2217B12A"
+  },
+  "KRC 161 444/1"
+  :
+  {
+    "MarketName": "IRU 2242",
+    "ProductName": "IRU 2242"
+  },
+  "KRC 161 444/2"
+  :
+  {
+    "MarketName": "IRU 2242",
+    "ProductName": "IRU 2242"
+  },
+  "KRC 161 444/3"
+  :
+  {
+    "MarketName": "IRU 2242",
+    "ProductName": "IRU 2242"
+  },
+  "KRC 161 4471/1"
+  :
+  {
+    "MarketName": "Radio 4471HP B3",
+    "ProductName": "RRU4471"
+  },
+  "KRC 161 4471/11"
+  :
+  {
+    "MarketName": "Radio 4471HP B3",
+    "ProductName": "RRU4471"
+  },
+  "KRC 161 472/3"
+  :
+  {
+    "MarketName": "Radio 4426 B66",
+    "ProductName": "RRU4426B66"
+  },
+  "KRC 161 487/1"
+  :
+  {
+    "MarketName": "Radio 2203 B1",
+    "ProductName": "RRUS2203B1"
+  },
+  "KRC 161 488/1"
+  :
+  {
+    "MarketName": "Radio 2203 B3",
+    "ProductName": "RRUS2203B3"
+  },
+  "KRC 161 489/1"
+  :
+  {
+    "MarketName": "Radio 2203 B2 B25",
+    "ProductName": "RRUS2203B25"
+  },
+  "KRC 161 490/1"
+  :
+  {
+    "MarketName": "Radio 2217 B1",
+    "ProductName": "RRUS2217B1"
+  },
+  "KRC 161 490/2"
+  :
+  {
+    "MarketName": "Radio 2217 B1",
+    "ProductName": "RRUS2217B1"
+  },
+  "KRC 161 495/1"
+  :
+  {
+    "MarketName": "Radio 4415 B7",
+    "ProductName": "RRU4415B7"
+  },
+  "KRC 161 495/2"
+  :
+  {
+    "MarketName": "Radio 4415 B7",
+    "ProductName": "RRU4415B7"
+  },
+  "KRC 161 496/1"
+  :
+  {
+    "MarketName": "Radio 2212 B3",
+    "ProductName": "RRU2212B3"
+  },
+  "KRC 161 496/2"
+  :
+  {
+    "MarketName": "Radio 2212 B3",
+    "ProductName": "RRU2212B3"
+  },
+  "KRC 161 498/1"
+  :
+  {
+    "MarketName": "Radio 2217 B3A",
+    "ProductName": "RRUS2217B3A"
+  },
+  "KRC 161 499/1"
+  :
+  {
+    "MarketName": "Radio 2217 B28B",
+    "ProductName": "RRUS2217B28B"
+  },
+  "KRC 161 500/1"
+  :
+  {
+    "MarketName": "Radio 2217 B1",
+    "ProductName": "RRUS2217B1"
+  },
+  "KRC 161 506/1"
+  :
+  {
+    "MarketName": "Radio 2203 B7",
+    "ProductName": "RRUS2203B7"
+  },
+  "KRC 161 508/1"
+  :
+  {
+    "MarketName": "Radio 2203 B5",
+    "ProductName": "RRUS2203B5"
+  },
+  "KRC 161 509/1"
+  :
+  {
+    "MarketName": "Radio 2203 B8",
+    "ProductName": "RRUS2203B8"
+  },
+  "KRC 161 510/1"
+  :
+  {
+    "MarketName": "Radio 2203 B20",
+    "ProductName": "RRUS2203B20"
+  },
+  "KRC 161 511/1"
+  :
+  {
+    "MarketName": "Radio 2203 B12",
+    "ProductName": "RRUS2203B12"
+  },
+  "KRC 161 514/1"
+  :
+  {
+    "MarketName": "Radio 2203 B13",
+    "ProductName": "RRUS2203B13"
+  },
+  "KRC 161 515/1"
+  :
+  {
+    "MarketName": "Radio 2203 B28A",
+    "ProductName": "RRUS2203B28A"
+  },
+  "KRC 161 516/1"
+  :
+  {
+    "MarketName": "Radio 2203 B28B",
+    "ProductName": "RRUS2203B28B"
+  },
+  "KRC 161 545/1"
+  :
+  {
+    "MarketName": "Radio 2203 B3C",
+    "ProductName": "RRUS2203B3C"
+  },
+  "KRC 161 547/1"
+  :
+  {
+    "MarketName": "Radio 2217 B4",
+    "ProductName": "RRUS2217B4"
+  },
+  "KRC 161 548/1"
+  :
+  {
+    "MarketName": "Radio 2217 B8",
+    "ProductName": "RRUS2217B8"
+  },
+  "KRC 161 548/2"
+  :
+  {
+    "MarketName": "Radio 2217 B8",
+    "ProductName": "RRUS2217B8"
+  },
+  "KRC 161 549/1"
+  :
+  {
+    "MarketName": "Radio 2217 B20",
+    "ProductName": "RRUS2217B20"
+  },
+  "KRC 161 550/1"
+  :
+  {
+    "MarketName": "Radio 2217 B28A",
+    "ProductName": "RRUS2217B28A"
+  },
+  "KRC 161 550/2"
+  :
+  {
+    "MarketName": "Radio 2217 B28A",
+    "ProductName": "RRUS2217B28A"
+  },
+  "KRC 161 551/1"
+  :
+  {
+    "MarketName": "Radio 2203 B3A",
+    "ProductName": "RRUS2203B3A"
+  },
+  "KRC 161 552/1"
+  :
+  {
+    "MarketName": "Radio 2203 B3B",
+    "ProductName": "RRUS2203B3B"
+  },
+  "KRC 161 553/1"
+  :
+  {
+    "MarketName": "Radio 2203 B66A",
+    "ProductName": "RRUS2203B66A"
+  },
+  "KRC 161 554/1"
+  :
+  {
+    "MarketName": "Radio 0208 B1",
+    "ProductName": "RRUS0208B1"
+  },
+  "KRC 161 558/1"
+  :
+  {
+    "MarketName": "RRU 2216 B40A",
+    "ProductName": "RRU2216B40A"
+  },
+  "KRC 161 559/1"
+  :
+  {
+    "MarketName": "RRU 2208 B41E",
+    "ProductName": "RRU2208B41E"
+  },
+  "KRC 161 563/1"
+  :
+  {
+    "MarketName": "Radio 2217 B2",
+    "ProductName": "RRUS2217B2"
+  },
+  "KRC 161 564/1"
+  :
+  {
+    "MarketName": "Radio 2217 B3C",
+    "ProductName": "RRUS2217B3C"
+  },
+  "KRC 161 564/2"
+  :
+  {
+    "MarketName": "Radio 2217 B3C",
+    "ProductName": "RRUS2217B3C"
+  },
+  "KRC 161 566/1"
+  :
+  {
+    "MarketName": "Radio 2217 B5",
+    "ProductName": "RRUS2217B5"
+  },
+  "KRC 161 566/2"
+  :
+  {
+    "MarketName": "Radio 2217 B5",
+    "ProductName": "RRUS2217B5"
+  },
+  "KRC 161 567/1"
+  :
+  {
+    "MarketName": "Radio 2217 B8A",
+    "ProductName": "RRUS2217B8A"
+  },
+  "KRC 161 568/2"
+  :
+  {
+    "MarketName": "Radio 2217 B11",
+    "ProductName": "RRUS2217B11"
+  },
+  "KRC 161 569/1"
+  :
+  {
+    "MarketName": "Radio 2217 B13",
+    "ProductName": "RRUS2217B13"
+  },
+  "KRC 161 570/1"
+  :
+  {
+    "MarketName": "Radio 2217 B19",
+    "ProductName": "RRUS2217B19"
+  },
+  "KRC 161 571/1"
+  :
+  {
+    "MarketName": "Radio 2217 B21",
+    "ProductName": "RRUS2217B21"
+  },
+  "KRC 161 572/1"
+  :
+  {
+    "MarketName": "Radio 0208 B26D",
+    "ProductName": "RRUS0208B26D"
+  },
+  "KRC 161 578/1"
+  :
+  {
+    "MarketName": "Radio 2218 B39A",
+    "ProductName": "RRU2218B39A"
+  },
+  "KRC 161 582/1"
+  :
+  {
+    "MarketName": "Radio 2217 B3B",
+    "ProductName": "RRUS2217B3B"
+  },
+  "KRC 161 582/2"
+  :
+  {
+    "MarketName": "Radio 2217 B3B",
+    "ProductName": "RRUS2217B3B"
+  },
+  "KRC 161 584/1"
+  :
+  {
+    "MarketName": "Radio 0208 B3",
+    "ProductName": "RRUS0208B3"
+  },
+  "KRC 161 585/1"
+  :
+  {
+    "MarketName": "Radio 0208 B66",
+    "ProductName": "RRUS0208B66"
+  },
+  "KRC 161 586/1"
+  :
+  {
+    "MarketName": "Radio 0208 B7",
+    "ProductName": "RRUS0208B7"
+  },
+  "KRC 161 587/1"
+  :
+  {
+    "MarketName": "Radio 0208 B13",
+    "ProductName": "RRUS0208B13"
+  },
+  "KRC 161 588/1"
+  :
+  {
+    "MarketName": "Radio 0208 B5",
+    "ProductName": "RRUS0208B5"
+  },
+  "KRC 161 589/1"
+  :
+  {
+    "MarketName": "Radio 0208 B2",
+    "ProductName": "RRUS0208B2"
+  },
+  "KRC 161 592/1"
+  :
+  {
+    "MarketName": "Radio 2217 B26D",
+    "ProductName": "RRUS2217B26D"
+  },
+  "KRC 161 592/2"
+  :
+  {
+    "MarketName": "Radio 2217 B26D",
+    "ProductName": "RRUS2217B26D"
+  },
+  "KRC 161 603/1"
+  :
+  {
+    "MarketName": "Radio 8808 B41E",
+    "ProductName": "RRU8808B41E"
+  },
+  "KRC 161 603/2"
+  :
+  {
+    "MarketName": "Radio 8808 B39A",
+    "ProductName": "RRU8808B39A"
+  },
+  "KRC 161 604/1"
+  :
+  {
+    "MarketName": "Radio 2012 B32A",
+    "ProductName": "RRU2012B32A"
+  },
+  "KRC 161 606/1"
+  :
+  {
+    "MarketName": "Radio 2218 B42",
+    "ProductName": "Radio2218B42"
+  },
+  "KRC 161 609/1"
+  :
+  {
+    "MarketName": "Radio 2205 B46",
+    "ProductName": "RRU2205B46"
+  },
+  "KRC 161 609/2"
+  :
+  {
+    "MarketName": "Radio 2205 B46",
+    "ProductName": "RRU2205B46"
+  },
+  "KRC 161 612/1"
+  :
+  {
+    "MarketName": "Radio 2205 B41",
+    "ProductName": "RRU2205B41"
+  },
+  "KRC 161 616/1"
+  :
+  {
+    "MarketName": "Radio 2218 B42B DCM",
+    "ProductName": "RRU2218B42B"
+  },
+  "KRC 161 618/1"
+  :
+  {
+    "MarketName": "Radio 2219 B8A",
+    "ProductName": "RRU2219B8A"
+  },
+  "KRC 161 619/1"
+  :
+  {
+    "MarketName": "Radio 2219 B3",
+    "ProductName": "RRU2219B3"
+  },
+  "KRC 161 620/1"
+  :
+  {
+    "MarketName": "Radio 2219 B3A",
+    "ProductName": "RRU2219B3A"
+  },
+  "KRC 161 621/1"
+  :
+  {
+    "MarketName": "Radio 2219 B3B",
+    "ProductName": "RRU2219B3B"
+  },
+  "KRC 161 622/1"
+  :
+  {
+    "MarketName": "Radio 2219 B1",
+    "ProductName": "RRU2219B1"
+  },
+  "KRC 161 623/1"
+  :
+  {
+    "MarketName": "Radio 2219 B1",
+    "ProductName": "RRU2219B1"
+  },
+  "KRC 161 624/1"
+  :
+  {
+    "MarketName": "Radio 2212 B1",
+    "ProductName": "RRU2212B1"
+  },
+  "KRC 161 624/2"
+  :
+  {
+    "MarketName": "Radio 2212 B1",
+    "ProductName": "RRU2212B1"
+  },
+  "KRC 161 625/1"
+  :
+  {
+    "MarketName": "Radio 2219 B0A",
+    "ProductName": "RRU2219B0A"
+  },
+  "KRC 161 627/1"
+  :
+  {
+    "MarketName": "Radio 2219 B2",
+    "ProductName": "RRU2219B2"
+  },
+  "KRC 161 628/1"
+  :
+  {
+    "MarketName": "Radio 2212 B7",
+    "ProductName": "RRU2212B7"
+  },
+  "KRC 161 628/2"
+  :
+  {
+    "MarketName": "Radio 2212 B7",
+    "ProductName": "RRU2212B7"
+  },
+  "KRC 161 630/1"
+  :
+  {
+    "MarketName": "Radio 2212 B66A",
+    "ProductName": "RRU2212B66A"
+  },
+  "KRC 161 630/3"
+  :
+  {
+    "MarketName": "Radio 2212 B66A",
+    "ProductName": "RRU2212B66A"
+  },
+  "KRC 161 631/1"
+  :
+  {
+    "MarketName": "Radio 2212 B13",
+    "ProductName": "RRU2212B13"
+  },
+  "KRC 161 631/3"
+  :
+  {
+    "MarketName": "Radio 2212 B13",
+    "ProductName": "RRU2212B13"
+  },
+  "KRC 161 634/1"
+  :
+  {
+    "MarketName": "Radio 2212 B3",
+    "ProductName": "RRU2212B3"
+  },
+  "KRC 161 634/2"
+  :
+  {
+    "MarketName": "Radio 2212 B3",
+    "ProductName": "RRU2212B3"
+  },
+  "KRC 161 635/1"
+  :
+  {
+    "MarketName": "Radio 4415 B1",
+    "ProductName": "RRU4415B1"
+  },
+  "KRC 161 635/2"
+  :
+  {
+    "MarketName": "Radio 4415 B1",
+    "ProductName": "RRU4415B1"
+  },
+  "KRC 161 636/1"
+  :
+  {
+    "MarketName": "Radio 4415 B2 B25",
+    "ProductName": "RRU4415B2B25"
+  },
+  "KRC 161 636/3"
+  :
+  {
+    "MarketName": "Radio 4415 B2 B25",
+    "ProductName": "RRU4415B2B25"
+  },
+  "KRC 161 637/1"
+  :
+  {
+    "MarketName": "Radio 4415 B3",
+    "ProductName": "RRU4415B3"
+  },
+  "KRC 161 637/2"
+  :
+  {
+    "MarketName": "Radio 4415 B3",
+    "ProductName": "RRU4415B3"
+  },
+  "KRC 161 642/1"
+  :
+  {
+    "MarketName": "Radio 4401 B42A",
+    "ProductName": "RRU4401B42A"
+  },
+  "KRC 161 642/2"
+  :
+  {
+    "MarketName": "Radio 4401 B42A",
+    "ProductName": "RRU4401B42A"
+  },
+  "KRC 161 644/1"
+  :
+  {
+    "MarketName": "Radio 4415 B66A",
+    "ProductName": "RRU4415B66A"
+  },
+  "KRC 161 644/3"
+  :
+  {
+    "MarketName": "Radio 4415 B66A",
+    "ProductName": "RRU4415B66A"
+  },
+  "KRC 161 646/1"
+  :
+  {
+    "MarketName": "Radio 0208 B28",
+    "ProductName": "RRUS0208B28"
+  },
+  "KRC 161 647/1"
+  :
+  {
+    "MarketName": "Radio 2218 B42B KDDI",
+    "ProductName": "RRU2218B42B"
+  },
+  "KRC 161 648/1"
+  :
+  {
+    "MarketName": "Radio 2018 B40U",
+    "ProductName": "RRU2018B40U"
+  },
+  "KRC 161 650/1"
+  :
+  {
+    "MarketName": "Radio 2212 B8",
+    "ProductName": "RRU2212B8"
+  },
+  "KRC 161 650/2"
+  :
+  {
+    "MarketName": "Radio 2212 B8",
+    "ProductName": "RRU2212B8"
+  },
+  "KRC 161 650/4"
+  :
+  {
+    "MarketName": "Radio 2212 B8",
+    "ProductName": "RRU2212B8"
+  },
+  "KRC 161 650/5"
+  :
+  {
+    "MarketName": "Radio 2212 B8",
+    "ProductName": "RRU2212B8"
+  },
+  "KRC 161 652/1"
+  :
+  {
+    "MarketName": "Radio 2212 B5",
+    "ProductName": "RRU2212B5"
+  },
+  "KRC 161 652/2"
+  :
+  {
+    "MarketName": "Radio 2212 B5",
+    "ProductName": "RRU2212B5"
+  },
+  "KRC 161 652/3"
+  :
+  {
+    "MarketName": "Radio 2212 B5",
+    "ProductName": "RRU2212B5"
+  },
+  "KRC 161 655/1"
+  :
+  {
+    "MarketName": "Radio 2217 B5B",
+    "ProductName": "RRUS2217B5B"
+  },
+  "KRC 161 658/1"
+  :
+  {
+    "MarketName": "Radio 2237 B5A",
+    "ProductName": "RRUS2237B5A"
+  },
+  "KRC 161 660/1"
+  :
+  {
+    "MarketName": "Radio 4407 B3",
+    "ProductName": "RRU4407B3"
+  },
+  "KRC 161 661/1"
+  :
+  {
+    "MarketName": "Radio 4412 B40",
+    "ProductName": "RRU4412B40"
+  },
+  "KRC 161 662/1"
+  :
+  {
+    "MarketName": "Radio 4412 B40T",
+    "ProductName": "RRU4412B40T"
+  },
+  "KRC 161 666/1"
+  :
+  {
+    "MarketName": "Radio 8823 B42",
+    "ProductName": "RRU8823B42"
+  },
+  "KRC 161 668/1"
+  :
+  {
+    "MarketName": "Radio 2488 B3",
+    "ProductName": "RRU2488B3"
+  },
+  "KRC 161 669/3"
+  :
+  {
+    "MarketName": "Radio 4478 B14",
+    "ProductName": "RRU4478B14"
+  },
+  "KRC 161 670/1"
+  :
+  {
+    "MarketName": "Radio 2219 B8",
+    "ProductName": "RRU2219B8"
+  },
+  "KRC 161 671/1"
+  :
+  {
+    "MarketName": "Radio 2219 B28",
+    "ProductName": "RRU2219B28"
+  },
+  "KRC 161 672/1"
+  :
+  {
+    "MarketName": "Radio 2488 B1",
+    "ProductName": "RRU2488B1"
+  },
+  "KRC 161 676/1"
+  :
+  {
+    "MarketName": "Radio 4415 B7A",
+    "ProductName": "RRU4415B7A"
+  },
+  "KRC 161 677/1"
+  :
+  {
+    "MarketName": "Radio 8808 B38A",
+    "ProductName": "RRU8808B38A"
+  },
+  "KRC 161 678/1"
+  :
+  {
+    "MarketName": "Radio 2219 B5",
+    "ProductName": "RRU2219B5"
+  },
+  "KRC 161 679/1"
+  :
+  {
+    "MarketName": "Radio 2219 B5B",
+    "ProductName": "RRU2219B5B"
+  },
+  "KRC 161 684/1"
+  :
+  {
+    "MarketName": "Radio 8818 B41E",
+    "ProductName": "RRU8818B41E"
+  },
+  "KRC 161 685/1"
+  :
+  {
+    "MarketName": "Radio 2217 B7A",
+    "ProductName": "RRUS2217B7A"
+  },
+  "KRC 161 687/1"
+  :
+  {
+    "MarketName": "Radio 8842 B34 B39A",
+    "ProductName": "RRU88423439A"
+  },
+  "KRC 161 688/1"
+  :
+  {
+    "MarketName": "Radio 2212 B2 B25",
+    "ProductName": "RRU2212B2B25"
+  },
+  "KRC 161 688/3"
+  :
+  {
+    "MarketName": "Radio 2212 B2 B25",
+    "ProductName": "RRU2212B2B25"
+  },
+  "KRC 161 689/1"
+  :
+  {
+    "MarketName": "Radio 4478 B5",
+    "ProductName": "RRU4478B5"
+  },
+  "KRC 161 689/3"
+  :
+  {
+    "MarketName": "Radio 4478 B5",
+    "ProductName": "RRU4478B5"
+  },
+  "KRC 161 697/1"
+  :
+  {
+    "MarketName": "Radio 4412 B41",
+    "ProductName": "RRU4412B41"
+  },
+  "KRC 161 699/1"
+  :
+  {
+    "MarketName": "Radio 4478 B71",
+    "ProductName": "RRU4478B71"
+  },
+  "KRC 161 699/3"
+  :
+  {
+    "MarketName": "Radio 4478 B71",
+    "ProductName": "RRU4478B71"
+  },
+  "KRC 161 700/1"
+  :
+  {
+    "MarketName": "Radio 2242 B1 B3",
+    "ProductName": "RRU22420103"
+  },
+  "KRC 161 702/1"
+  :
+  {
+    "MarketName": "Radio 2468 B8A",
+    "ProductName": "RRU2468B8A"
+  },
+  "KRC 161 703/1"
+  :
+  {
+    "MarketName": "Radio 2217 B66A",
+    "ProductName": "RRUS2217B66A"
+  },
+  "KRC 161 704/1"
+  :
+  {
+    "MarketName": "Radio 2242 B1B B3A",
+    "ProductName": "RRU22421B3A"
+  },
+  "KRC 161 705/1"
+  :
+  {
+    "MarketName": "Radio 4418 B38A",
+    "ProductName": "RRU4418B38A"
+  },
+  "KRC 161 706/1"
+  :
+  {
+    "MarketName": "Radio 4418 B40T",
+    "ProductName": "RRU4418B40T"
+  },
+  "KRC 161 706/5"
+  :
+  {
+    "MarketName": "Radio 4418 B40N",
+    "ProductName": "RRU4418B40N"
+  },
+  "KRC 161 706/6"
+  :
+  {
+    "MarketName": "Radio 4418 B40N",
+    "ProductName": "RRU4418"
+  },
+  "KRC 161 707/1"
+  :
+  {
+    "MarketName": "Radio 8843 B2 B66A",
+    "ProductName": "RRU88430266A"
+  },
+  "KRC 161 707/2"
+  :
+  {
+    "MarketName": "Radio 8843 B2 B66A",
+    "ProductName": "RRU88430266A"
+  },
+  "KRC 161 708/1"
+  :
+  {
+    "MarketName": "Radio 4442 B1 B3",
+    "ProductName": "RRU44420103"
+  },
+  "KRC 161 711/1"
+  :
+  {
+    "MarketName": "Radio 2208 B48",
+    "ProductName": "RRU2208B48"
+  },
+  "KRC 161 713/1"
+  :
+  {
+    "MarketName": "Radio 4428 B3",
+    "ProductName": "RRU4428B3"
+  },
+  "KRC 161 718/1"
+  :
+  {
+    "MarketName": "Radio 2468 B5B",
+    "ProductName": "RRU2468B5B"
+  },
+  "KRC 161 721/1"
+  :
+  {
+    "MarketName": "Radio 4428 B3B",
+    "ProductName": "RRU4428B3B"
+  },
+  "KRC 161 724/1"
+  :
+  {
+    "MarketName": "Radio 8808 B40Y",
+    "ProductName": "RRU8808B40Y"
+  },
+  "KRC 161 725/1"
+  :
+  {
+    "MarketName": "Radio 2217 B28E",
+    "ProductName": "RRUS2217B28E"
+  },
+  "KRC 161 726/1"
+  :
+  {
+    "MarketName": "Radio 2242 B1 B3",
+    "ProductName": "RRU22420103"
+  },
+  "KRC 161 728/1"
+  :
+  {
+    "MarketName": "Radio 2468 B8",
+    "ProductName": "RRU2468B8"
+  },
+  "KRC 161 729/3"
+  :
+  {
+    "MarketName": "Radio 4415 B14",
+    "ProductName": "RRU4415B14"
+  },
+  "KRC 161 730/1"
+  :
+  {
+    "MarketName": "Radio 4415 B5",
+    "ProductName": "RRU4415B5"
+  },
+  "KRC 161 730/2"
+  :
+  {
+    "MarketName": "Radio 4415 B5",
+    "ProductName": "RRU4415B5"
+  },
+  "KRC 161 730/3"
+  :
+  {
+    "MarketName": "Radio 4415 B5",
+    "ProductName": "RRU4415B5"
+  },
+  "KRC 161 731/1"
+  :
+  {
+    "MarketName": "Radio 4415 B71",
+    "ProductName": "RRU4415B71"
+  },
+  "KRC 161 731/3"
+  :
+  {
+    "MarketName": "Radio 4415 B71",
+    "ProductName": "RRU4415B71"
+  },
+  "KRC 161 733/1"
+  :
+  {
+    "MarketName": "Radio 4415 B20",
+    "ProductName": "RRU4415B20"
+  },
+  "KRC 161 735/1"
+  :
+  {
+    "MarketName": "Radio 4428 B1",
+    "ProductName": "RRU4428B1"
+  },
+  "KRC 161 737/1"
+  :
+  {
+    "MarketName": "Radio 4402 B2/B25",
+    "ProductName": "RRU4402B2B25"
+  },
+  "KRC 161 738/1"
+  :
+  {
+    "MarketName": "Radio 4402 B66",
+    "ProductName": "RRU4402"
+  },
+  "KRC 161 739/2"
+  :
+  {
+    "MarketName": "Radio 4402 B1",
+    "ProductName": "RRU4402"
+  },
+  "KRC 161 740/2"
+  :
+  {
+    "MarketName": "Radio 4402 B3",
+    "ProductName": "RRU4402"
+  },
+  "KRC 161 741/2"
+  :
+  {
+    "MarketName": "Radio 4402 B7",
+    "ProductName": "RRU4402"
+  },
+  "KRC 161 742/1"
+  :
+  {
+    "MarketName": "Radio 4402 B66A",
+    "ProductName": "RRU4402B66A"
+  },
+  "KRC 161 746/1"
+  :
+  {
+    "MarketName": "Radio 4408 B48",
+    "ProductName": "RRU4408B48"
+  },
+  "KRC 161 747/1"
+  :
+  {
+    "MarketName": "Radio 4408 B40U",
+    "ProductName": "RRU4408B40U"
+  },
+  "KRC 161 749/1"
+  :
+  {
+    "MarketName": "Radio 4449 B5 B13",
+    "ProductName": "RRU4449B5B13"
+  },
+  "KRC 161 752/1"
+  :
+  {
+    "MarketName": "Radio 4449 B5 B12A",
+    "ProductName": "RRU44490512A"
+  },
+  "KRC 161 753/1"
+  :
+  {
+    "MarketName": "Radio 4443 B1 B3",
+    "ProductName": "RRU44430103"
+  },
+  "KRC 161 754/1"
+  :
+  {
+    "MarketName": "IRU 8884",
+    "ProductName": "IRU 8884"
+  },
+  "KRC 161 754/2"
+  :
+  {
+    "MarketName": "IRU 8846",
+    "ProductName": "IRU 8846"
+  },
+  "KRC 161 754/3"
+  :
+  {
+    "MarketName": "IRU 8844",
+    "ProductName": "IRU 8844"
+  },
+  "KRC 161 756/1"
+  :
+  {
+    "MarketName": "Radio 4449 B71 B85A",
+    "ProductName": "RRU44497185A"
+  },
+  "KRC 161 758/1"
+  :
+  {
+    "MarketName": "Radio 4418 B40",
+    "ProductName": "RRU4418B40"
+  },
+  "KRC 161 759/1"
+  :
+  {
+    "MarketName": "Radio 0208 BH",
+    "ProductName": "RRUS0208BH"
+  },
+  "KRC 161 760/3"
+  :
+  {
+    "MarketName": "Radio 4415 B70",
+    "ProductName": "RRU4415B70"
+  },
+  "KRC 161 761/1"
+  :
+  {
+    "MarketName": "Radio 2212 B20",
+    "ProductName": "RRU2212B20"
+  },
+  "KRC 161 766/1"
+  :
+  {
+    "MarketName": "Radio 2242 B1B B3A",
+    "ProductName": "RRU22421B3A"
+  },
+  "KRC 161 767/2"
+  :
+  {
+    "MarketName": "Radio 4408 B42",
+    "ProductName": "RRU4408B42"
+  },
+  "KRC 161 768/2"
+  :
+  {
+    "MarketName": "Radio 4408 B43",
+    "ProductName": "RRU4408B43"
+  },
+  "KRC 161 769/3"
+  :
+  {
+    "MarketName": "Radio 4415 B30",
+    "ProductName": "RRU4415B30"
+  },
+  "KRC 161 770/1"
+  :
+  {
+    "MarketName": "Radio 4429 B3B",
+    "ProductName": "RRU4429B3B"
+  },
+  "KRC 161 771/2"
+  :
+  {
+    "MarketName": "Radio 4415 B3B",
+    "ProductName": "RRU4415B3B"
+  },
+  "KRC 161 772/1"
+  :
+  {
+    "MarketName": "Radio 2468 B0A",
+    "ProductName": "RRU2468B0A"
+  },
+  "KRC 161 777/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B1 44B3 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 777/2"
+  :
+  {
+    "MarketName": "Radio 4480 44B1 44B3 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 781/1"
+  :
+  {
+    "MarketName": "Radio 4417 B3",
+    "ProductName": "RRU4417B3"
+  },
+  "KRC 161 781/2"
+  :
+  {
+    "MarketName": "Radio 4417 B3",
+    "ProductName": "RRU4417B3"
+  },
+  "KRC 161 782/1"
+  :
+  {
+    "MarketName": "Radio 4429 B3",
+    "ProductName": "RRU4429B3"
+  },
+  "KRC 161 785/1"
+  :
+  {
+    "MarketName": "Radio 2219 B0B",
+    "ProductName": "RRU2219B0B"
+  },
+  "KRC 161 787/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B1 44B3 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 788/1"
+  :
+  {
+    "MarketName": "Radio 8823 B43",
+    "ProductName": "RRU8823B43"
+  },
+  "KRC 161 789/1"
+  :
+  {
+    "MarketName": "Radio 4418 B41",
+    "ProductName": "RRU4418B41"
+  },
+  "KRC 161 789/5"
+  :
+  {
+    "MarketName": "Radio 4418 B41",
+    "ProductName": "RRU4418"
+  },
+  "KRC 161 797/1"
+  :
+  {
+    "MarketName": "Radio 2238 B8 B20 B28B",
+    "ProductName": "RRU2238"
+  },
+  "KRC 161 802/1"
+  :
+  {
+    "MarketName": "Radio 4448 B2/B25 B66A",
+    "ProductName": "RRU4448"
+  },
+  "KRC 161 803/2"
+  :
+  {
+    "MarketName": "Radio 4422 B78C",
+    "ProductName": "RRU4422B78C"
+  },
+  "KRC 161 806/1"
+  :
+  {
+    "MarketName": "Radio 8823 B41K",
+    "ProductName": "RRU8823B41K"
+  },
+  "KRC 161 807/1"
+  :
+  {
+    "MarketName": "Radio 2228 B41K",
+    "ProductName": "RRU2228B41K"
+  },
+  "KRC 161 812/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B1 44B7 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 813/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B3 44B7 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 814/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B1 44B7 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 815/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B3 44B7 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 818/2"
+  :
+  {
+    "MarketName": "Radio 8836 B42",
+    "ProductName": "RRU8836B42"
+  },
+  "KRC 161 822/1"
+  :
+  {
+    "MarketName": "Radio 8823 B42G",
+    "ProductName": "RRU8823B42G"
+  },
+  "KRC 161 823/1"
+  :
+  {
+    "MarketName": "Radio 4455 B2/B25 B66A",
+    "ProductName": "RRU4455"
+  },
+  "KRC 161 826/1"
+  :
+  {
+    "MarketName": "Radio 4422 B42F",
+    "ProductName": "RRU4422"
+  },
+  "KRC 161 827/1"
+  :
+  {
+    "MarketName": "Radio 4422 B43",
+    "ProductName": "RRU4422"
+  },
+  "KRC 161 827/2"
+  :
+  {
+    "MarketName": "Radio 4422 B78G",
+    "ProductName": "RRU4422"
+  },
+  "KRC 161 828/1"
+  :
+  {
+    "MarketName": "Radio 2260 22B1 22B3 C",
+    "ProductName": "RRU2260"
+  },
+  "KRC 161 828/2"
+  :
+  {
+    "MarketName": "Radio 2260 22B1 22B3 C",
+    "ProductName": "RRU2260"
+  },
+  "KRC 161 831/1"
+  :
+  {
+    "MarketName": "Radio 2460 24B8 24B20 24B28B M01",
+    "ProductName": "RRU2460"
+  },
+  "KRC 161 832/1"
+  :
+  {
+    "MarketName": "Radio 2479 24B8 24B20 24B28B M01",
+    "ProductName": "RRU2479"
+  },
+  "KRC 161 833/2"
+  :
+  {
+    "MarketName": "Radio 8836 B41N",
+    "ProductName": "RRU8836B41N"
+  },
+  "KRC 161 836/1"
+  :
+  {
+    "MarketName": "Radio 2279 22B1 22B3 C",
+    "ProductName": "RRU2279"
+  },
+  "KRC 161 837/2"
+  :
+  {
+    "MarketName": "Radio 2250 22B18 22B28D S",
+    "ProductName": "RRU2250"
+  },
+  "KRC 161 838/1"
+  :
+  {
+    "MarketName": "Radio 2203 B14",
+    "ProductName": "RRUS2203B14"
+  },
+  "KRC 161 840/1"
+  :
+  {
+    "MarketName": "Radio 2262 22B20 22B28B C",
+    "ProductName": "RRU2262"
+  },
+  "KRC 161 842/1"
+  :
+  {
+    "MarketName": "IRU 1648",
+    "ProductName": "IRU1648"
+  },
+  "KRC 161 842/2"
+  :
+  {
+    "MarketName": "IRU 1649",
+    "ProductName": "IRU 1649"
+  },
+  "KRC 161 842/7"
+  :
+  {
+    "MarketName": "IRU 16Fr",
+    "ProductName": "IRU16Fr"
+  },
+  "KRC 161 844/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B2/B25 44B66A C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 844/3"
+  :
+  {
+    "MarketName": "Radio 4480 44B2/B25 44B66A C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 847/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B2/B25 44B66A C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 851/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B8 44B28 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 852/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B8 44B28 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 853/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B0A 44B28 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 854/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B0A 44B28 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 855/1"
+  :
+  {
+    "MarketName": "Radio 2260 22B8 22B20 C",
+    "ProductName": "RRU2260"
+  },
+  "KRC 161 857/1"
+  :
+  {
+    "MarketName": "Radio 8863 B41",
+    "ProductName": "RRU8863B41"
+  },
+  "KRC 161 858/1"
+  :
+  {
+    "MarketName": "Radio 8863 B41K",
+    "ProductName": "RRU8863B41K"
+  },
+  "KRC 161 859/1"
+  :
+  {
+    "MarketName": "Radio 8863 B78K",
+    "ProductName": "RRU8863B78K"
+  },
+  "KRC 161 859/2"
+  :
+  {
+    "MarketName": "Radio 8863 B78K",
+    "ProductName": "RRU8863B78K"
+  },
+  "KRC 161 860/1"
+  :
+  {
+    "MarketName": "Radio 8863 B40",
+    "ProductName": "RRU8863B40"
+  },
+  "KRC 161 864/1"
+  :
+  {
+    "MarketName": "Radio 2279 22B8 22B20 C",
+    "ProductName": "RRU2279"
+  },
+  "KRC 161 865/1"
+  :
+  {
+    "MarketName": "Radio 8863 B42",
+    "ProductName": "RRU8863B42"
+  },
+  "KRC 161 865/2"
+  :
+  {
+    "MarketName": "Radio 8863 B42",
+    "ProductName": "RRU8863B42"
+  },
+  "KRC 161 866/2"
+  :
+  {
+    "MarketName": "Radio 8836 B77A",
+    "ProductName": "RRU8836B77A"
+  },
+  "KRC 161 867/1"
+  :
+  {
+    "MarketName": "Radio 2260 22B8 22B28B C",
+    "ProductName": "RRU2260"
+  },
+  "KRC 161 868/1"
+  :
+  {
+    "MarketName": "Radio 2279 22B8 22B28B C",
+    "ProductName": "RRU2279"
+  },
+  "KRC 161 879/1"
+  :
+  {
+    "MarketName": "LPRU 4410 B5 B12A",
+    "ProductName": "RRU4410"
+  },
+  "KRC 161 881/3"
+  :
+  {
+    "MarketName": "Radio 4478 B12A",
+    "ProductName": "RRU4478"
+  },
+  "KRC 161 883/1"
+  :
+  {
+    "MarketName": "Radio 4419 B7B",
+    "ProductName": "RRU4419B7B"
+  },
+  "KRC 161 884/1"
+  :
+  {
+    "MarketName": "Radio 4478 B26",
+    "ProductName": "RRU4478"
+  },
+  "KRC 161 887/1"
+  :
+  {
+    "MarketName": "LPRU 4410 B5 B13",
+    "ProductName": "RRU4410"
+  },
+  "KRC 161 889/1"
+  :
+  {
+    "MarketName": "IRU 8848",
+    "ProductName": "IRU 8848"
+  },
+  "KRC 161 889/4"
+  :
+  {
+    "MarketName": "IRU 88Rb",
+    "ProductName": "IRU88Rb"
+  },
+  "KRC 161 890/1"
+  :
+  {
+    "MarketName": "Radio 4429 B1B",
+    "ProductName": "RRU4429"
+  },
+  "KRC 161 891/1"
+  :
+  {
+    "MarketName": "Radio 4419 B7",
+    "ProductName": "RRU4419B7"
+  },
+  "KRC 161 892/2"
+  :
+  {
+    "MarketName": "Radio 4467 44B78S 44B77C C",
+    "ProductName": "RRU4467"
+  },
+  "KRC 161 893/1"
+  :
+  {
+    "MarketName": "Radio 2212 B31",
+    "ProductName": "RRU2212B31"
+  },
+  "KRC 161 894/1"
+  :
+  {
+    "MarketName": "Radio 4422 B78Q",
+    "ProductName": "RRU4422"
+  },
+  "KRC 161 897/1"
+  :
+  {
+    "MarketName": "Radio 2212 B72",
+    "ProductName": "RRU2212B72"
+  },
+  "KRC 161 903/2"
+  :
+  {
+    "MarketName": "Radio 4422 B77C",
+    "ProductName": "RRU4422"
+  },
+  "KRC 161 904/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B5 44B28 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 905/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B5 44B28 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 906/1"
+  :
+  {
+    "MarketName": "LPRU 4420 B25 B66",
+    "ProductName": "RRU4420"
+  },
+  "KRC 161 907/3"
+  :
+  {
+    "MarketName": "Radio 8863 B77D",
+    "ProductName": "RRU8863B77D"
+  },
+  "KRC 161 912/3"
+  :
+  {
+    "MarketName": "Radio 4460 44B2/B25 44B66 C",
+    "ProductName": "RRU4460"
+  },
+  "KRC 161 913/1"
+  :
+  {
+    "MarketName": "Radio 2229 B41K",
+    "ProductName": "RRU2229"
+  },
+  "KRC 161 914/1"
+  :
+  {
+    "MarketName": "Radio 2012 B29",
+    "ProductName": "RRU2012"
+  },
+  "KRC 161 914/3"
+  :
+  {
+    "MarketName": "Radio 2012 B29",
+    "ProductName": "RRU2012"
+  },
+  "KRC 161 916/1"
+  :
+  {
+    "MarketName": "Radio 4432 B28G",
+    "ProductName": "RRU4432"
+  },
+  "KRC 161 917/2"
+  :
+  {
+    "MarketName": "Radio 4422 B41H",
+    "ProductName": "RRU4422"
+  },
+  "KRC 161 920/1"
+  :
+  {
+    "MarketName": "Radio 4429 B28F",
+    "ProductName": "RRU4429"
+  },
+  "KRC 161 921/1"
+  :
+  {
+    "MarketName": "Radio 4429 B28",
+    "ProductName": "RRU4429"
+  },
+  "KRC 161 922/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B71 44B85A C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 923/1"
+  :
+  {
+    "MarketName": "Radio 4466 44B1 44B3 44B7 C",
+    "ProductName": "RRU4466"
+  },
+  "KRC 161 924/1"
+  :
+  {
+    "MarketName": "Radio 6626 66B1 66B3 C",
+    "ProductName": "RRU6626"
+  },
+  "KRC 161 925/1"
+  :
+  {
+    "MarketName": "Radio 4435 B41",
+    "ProductName": "RRU4435"
+  },
+  "KRC 161 925/2"
+  :
+  {
+    "MarketName": "Radio 4435 B41",
+    "ProductName": "RRU4435"
+  },
+  "KRC 161 928/1"
+  :
+  {
+    "MarketName": "Radio 4432 B1B",
+    "ProductName": "RRU4432"
+  },
+  "KRC 161 930/1"
+  :
+  {
+    "MarketName": "Radio 4432 B28H",
+    "ProductName": "RRU4432"
+  },
+  "KRC 161 931/1"
+  :
+  {
+    "MarketName": "Radio 2229 B41K",
+    "ProductName": "RRU2229"
+  },
+  "KRC 161 932/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B26 44B28B C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 933/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B26 44B28B C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 934/1"
+  :
+  {
+    "MarketName": "Radio 4435 B77D",
+    "ProductName": "RRU4435"
+  },
+  "KRC 161 934/2"
+  :
+  {
+    "MarketName": "Radio 4435 B77D",
+    "ProductName": "RRU4435"
+  },
+  "KRC 161 937/1"
+  :
+  {
+    "MarketName": "Radio 4467 44B40 44B41 C",
+    "ProductName": "RRU4467"
+  },
+  "KRC 161 939/1"
+  :
+  {
+    "MarketName": "Radio 8863 B38A",
+    "ProductName": "RRU8863"
+  },
+  "KRC 161 941/1"
+  :
+  {
+    "MarketName": "Radio 44F1 B79B",
+    "ProductName": "RRU44F1"
+  },
+  "KRC 161 942/1"
+  :
+  {
+    "MarketName": "Radio 2219 B5A",
+    "ProductName": "RRU2219"
+  },
+  "KRC 161 944/1"
+  :
+  {
+    "MarketName": "Radio 4020 B75B",
+    "ProductName": "RRU4020"
+  },
+  "KRC 161 945/1"
+  :
+  {
+    "MarketName": "Radio 4418 B40",
+    "ProductName": "RRU4418"
+  },
+  "KRC 161 948/1"
+  :
+  {
+    "MarketName": "Radio 6626 66B8 66B20 C",
+    "ProductName": "RRU6626"
+  },
+  "KRC 161 949/1"
+  :
+  {
+    "MarketName": "Radio 4456 44B1C 44B3J 40B75C C",
+    "ProductName": "RRU4456"
+  },
+  "KRC 161 950/1"
+  :
+  {
+    "MarketName": "Radio 4490 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 950/11"
+  :
+  {
+    "MarketName": "Radio 4490 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 950/2"
+  :
+  {
+    "MarketName": "Radio 4490 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 950/21"
+  :
+  {
+    "MarketName": "Radio 4490 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 954/1"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 954/11"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 954/2"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 954/21"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B1 44B3 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 958/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B26 44B28 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 959/1"
+  :
+  {
+    "MarketName": "Radio 4499 44B26 44B28 C",
+    "ProductName": "RRU4499"
+  },
+  "KRC 161 960/1"
+  :
+  {
+    "MarketName": "Radio 4466 44B1 44B3 44B41 C",
+    "ProductName": "RRU4466"
+  },
+  "KRC 161 962/1"
+  :
+  {
+    "MarketName": "Radio 4466 44B1 44B3 44B40 C",
+    "ProductName": "RRU4466"
+  },
+  "KRC 161 967/1"
+  :
+  {
+    "MarketName": "Radio 2212 B87",
+    "ProductName": "RRU2212"
+  },
+  "KRC 161 968/1"
+  :
+  {
+    "MarketName": "Radio 4481 44B1B 44B3A C",
+    "ProductName": "RRU4481"
+  },
+  "KRC 161 970/2"
+  :
+  {
+    "MarketName": "Radio 4417 B1",
+    "ProductName": "RRU4417"
+  },
+  "KRC 161 971/1"
+  :
+  {
+    "MarketName": "Radio 2212 B28F B68",
+    "ProductName": "RRU2212"
+  },
+  "KRC 161 972/1"
+  :
+  {
+    "MarketName": "Radio 4435 B42",
+    "ProductName": "RRU4435"
+  },
+  "KRC 161 972/2"
+  :
+  {
+    "MarketName": "Radio 4435 B42",
+    "ProductName": "RRU4435"
+  },
+  "KRC 161 977/2"
+  :
+  {
+    "MarketName": "Radio 4408 B77C",
+    "ProductName": "RRU4408"
+  },
+  "KRC 161 978/1"
+  :
+  {
+    "MarketName": "Radio 4408 B78R",
+    "ProductName": "RRU4408"
+  },
+  "KRC 161 979/1"
+  :
+  {
+    "MarketName": "Radio 4408 B78Q",
+    "ProductName": "RRU4408"
+  },
+  "KRC 161 981/3"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B5 44B12A C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 981/31"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B5 44B12A C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 984/1"
+  :
+  {
+    "MarketName": "Radio 4485 44B1 44B3 44B7 C",
+    "ProductName": "RRU4485"
+  },
+  "KRC 161 984/11"
+  :
+  {
+    "MarketName": "Radio 4485 44B1 44B3 44B7 C",
+    "ProductName": "RRU4485"
+  },
+  "KRC 161 985/3"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B5 44B13 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 985/31"
+  :
+  {
+    "MarketName": "Radio 4490HP 44B5 44B13 C",
+    "ProductName": "RRU4490"
+  },
+  "KRC 161 991/1"
+  :
+  {
+    "MarketName": "Radio 4480 44B66 44B70 C",
+    "ProductName": "RRU4480"
+  },
+  "KRC 161 992/1"
+  :
+  {
+    "MarketName": "Radio 2468 B8B",
+    "ProductName": "RRU2468"
+  },
+  "KRC 161 994/1"
+  :
+  {
+    "MarketName": "Radio 44Pd B42F",
+    "ProductName": "RRU44Pd"
+  },
+  "KRC 161 995/1"
+  :
+  {
+    "MarketName": "Radio 44Pd B43",
+    "ProductName": "RRU44Pd"
+  },
+  "KRC 161 996/1"
+  :
+  {
+    "MarketName": "Radio 44Au B38A",
+    "ProductName": "RRU44Au"
+  },
+  "KRC 161 997/1"
+  :
+  {
+    "MarketName": "Radio 22Cu B7",
+    "ProductName": "RRU22Cu"
+  },
+  "KRC 161 998/1"
+  :
+  {
+    "MarketName": "Radio 22Cr B7",
+    "ProductName": "RRU22Cr"
+  },
+  "KRD 901 048/1"
+  :
+  {
+    "MarketName": "AIR 2488 B3A B1P B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 048/2"
+  :
+  {
+    "MarketName": "AIR 2488 B3A B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 048/3"
+  :
+  {
+    "MarketName": "AIR 2488 B3A B1A B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 048/4"
+  :
+  {
+    "MarketName": "AIR 2488 B3A B1A B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 048/5"
+  :
+  {
+    "MarketName": "AIR 2488 B1A B3P B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 048/6"
+  :
+  {
+    "MarketName": "AIR 2488 B1A B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 048/7"
+  :
+  {
+    "MarketName": "AIR 2488 B3A B1A B7P",
+    "ProductName": "AIR 2488"
+  },
+  "KRD 901 054/1"
+  :
+  {
+    "MarketName": "AIR 5121 B257A",
+    "ProductName": "AIR5121B257A"
+  },
+  "KRD 901 055/11"
+  :
+  {
+    "MarketName": "AIR 6468 B41E",
+    "ProductName": "AIR6468B41E"
+  },
+  "KRD 901 056/1"
+  :
+  {
+    "MarketName": "AIR 6488 B78B",
+    "ProductName": "AIR6488B78B"
+  },
+  "KRD 901 056/2"
+  :
+  {
+    "MarketName": "AIR 6488 B78B",
+    "ProductName": "AIR6488B78B"
+  },
+  "KRD 901 056/21"
+  :
+  {
+    "MarketName": "AIR 6488 B78B",
+    "ProductName": "AIR6488B78B"
+  },
+  "KRD 901 059/1"
+  :
+  {
+    "MarketName": "AIR 5121 B257A",
+    "ProductName": "AIR5121B257A"
+  },
+  "KRD 901 059/4"
+  :
+  {
+    "MarketName": "AIR 5121 B257A",
+    "ProductName": "AIR5121B257A"
+  },
+  "KRD 901 071/11"
+  :
+  {
+    "MarketName": "AIR 6468 B41H",
+    "ProductName": "AIR6468B41H"
+  },
+  "KRD 901 072/11"
+  :
+  {
+    "MarketName": "AIR 6468 B38A",
+    "ProductName": "AIR6468B38A"
+  },
+  "KRD 901 074/11"
+  :
+  {
+    "MarketName": "AIR 6468 B42",
+    "ProductName": "AIR6468B42"
+  },
+  "KRD 901 075/11"
+  :
+  {
+    "MarketName": "AIR 6468 B41",
+    "ProductName": "AIR6468B41"
+  },
+  "KRD 901 076/11"
+  :
+  {
+    "MarketName": "AIR 6468 B40",
+    "ProductName": "AIR6468B40"
+  },
+  "KRD 901 079/1"
+  :
+  {
+    "MarketName": "AIR 5331 B260",
+    "ProductName": "AIR5331B260"
+  },
+  "KRD 901 079/2"
+  :
+  {
+    "MarketName": "AIR 5331 B260",
+    "ProductName": "AIR5331B260"
+  },
+  "KRD 901 079/3"
+  :
+  {
+    "MarketName": "AIR 5331 B260",
+    "ProductName": "AIR5331B260"
+  },
+  "KRD 901 079/4"
+  :
+  {
+    "MarketName": "AIR 5331 B260",
+    "ProductName": "AIR5331B260"
+  },
+  "KRD 901 084/1"
+  :
+  {
+    "MarketName": "AIR 6449 B41K",
+    "ProductName": "AIR6449B41K"
+  },
+  "KRD 901 084/11"
+  :
+  {
+    "MarketName": "AIR 6449 B41K",
+    "ProductName": "AIR6449B41K"
+  },
+  "KRD 901 084/2"
+  :
+  {
+    "MarketName": "AIR 6449 B41K",
+    "ProductName": "AIR6449B41K"
+  },
+  "KRD 901 084/21"
+  :
+  {
+    "MarketName": "AIR 6449 B41K",
+    "ProductName": "AIR6449B41K"
+  },
+  "KRD 901 085/11"
+  :
+  {
+    "MarketName": "AIR 6468 B41J",
+    "ProductName": "AIR6468B41J"
+  },
+  "KRD 901 087/1"
+  :
+  {
+    "MarketName": "AIR 6488 B42F",
+    "ProductName": "AIR6488B42F"
+  },
+  "KRD 901 087/11"
+  :
+  {
+    "MarketName": "AIR 6488 B42F",
+    "ProductName": "AIR6488B42F"
+  },
+  "KRD 901 088/1"
+  :
+  {
+    "MarketName": "AIR 6482 B42",
+    "ProductName": "AIR6482B42"
+  },
+  "KRD 901 096/1"
+  :
+  {
+    "MarketName": "AIR 6488 B43",
+    "ProductName": "AIR6488B43"
+  },
+  "KRD 901 096/11"
+  :
+  {
+    "MarketName": "AIR 6488 B43",
+    "ProductName": "AIR6488B43"
+  },
+  "KRD 901 096/2"
+  :
+  {
+    "MarketName": "AIR 6488 B43",
+    "ProductName": "AIR6488B43"
+  },
+  "KRD 901 096/21"
+  :
+  {
+    "MarketName": "AIR 6488 B43",
+    "ProductName": "AIR6488B43"
+  },
+  "KRD 901 097/1"
+  :
+  {
+    "MarketName": "AIR 6488 B42",
+    "ProductName": "AIR6488B42"
+  },
+  "KRD 901 097/11"
+  :
+  {
+    "MarketName": "AIR 6488 B42",
+    "ProductName": "AIR6488B42"
+  },
+  "KRD 901 097/2"
+  :
+  {
+    "MarketName": "AIR 6488 B42",
+    "ProductName": "AIR6488B42"
+  },
+  "KRD 901 097/21"
+  :
+  {
+    "MarketName": "AIR 6488 B42",
+    "ProductName": "AIR6488B42"
+  },
+  "KRD 901 098/1"
+  :
+  {
+    "MarketName": "AIR 6488 B48",
+    "ProductName": "AIR6488B48"
+  },
+  "KRD 901 098/11"
+  :
+  {
+    "MarketName": "AIR 6488 B48",
+    "ProductName": "AIR6488B48"
+  },
+  "KRD 901 100/1"
+  :
+  {
+    "MarketName": "AIR 5322 B257",
+    "ProductName": "AIR5322B257"
+  },
+  "KRD 901 100/2"
+  :
+  {
+    "MarketName": "AIR 5322 B261",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 100/3"
+  :
+  {
+    "MarketName": "AIR 5322 B258B",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 100/4"
+  :
+  {
+    "MarketName": "AIR 5322 B257",
+    "ProductName": "AIR5322B257"
+  },
+  "KRD 901 100/5"
+  :
+  {
+    "MarketName": "AIR 5322 B261",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 100/6"
+  :
+  {
+    "MarketName": "AIR 5322 B258B",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 104/1"
+  :
+  {
+    "MarketName": "AIR 3239 B78C",
+    "ProductName": "AIR3239B78C"
+  },
+  "KRD 901 104/11"
+  :
+  {
+    "MarketName": "AIR 3239 B78C",
+    "ProductName": "AIR3239B78C"
+  },
+  "KRD 901 104/2"
+  :
+  {
+    "MarketName": "AIR 3239 B78C",
+    "ProductName": "AIR3239B78C"
+  },
+  "KRD 901 104/21"
+  :
+  {
+    "MarketName": "AIR 3239 B78C",
+    "ProductName": "AIR3239B78C"
+  },
+  "KRD 901 104/3"
+  :
+  {
+    "MarketName": "AIR 3239 B78C",
+    "ProductName": "AIR3239B78C"
+  },
+  "KRD 901 104/31"
+  :
+  {
+    "MarketName": "AIR 3239 B78C",
+    "ProductName": "AIR3239B78C"
+  },
+  "KRD 901 105/1"
+  :
+  {
+    "MarketName": "AIR 6488 B78H",
+    "ProductName": "AIR6488B78H"
+  },
+  "KRD 901 105/11"
+  :
+  {
+    "MarketName": "AIR 6488 B78H",
+    "ProductName": "AIR6488B78H"
+  },
+  "KRD 901 108/1"
+  :
+  {
+    "MarketName": "AIR 6488 B41",
+    "ProductName": "AIR6488B41"
+  },
+  "KRD 901 108/11"
+  :
+  {
+    "MarketName": "AIR 6488 B41",
+    "ProductName": "AIR6488B41"
+  },
+  "KRD 901 108/2"
+  :
+  {
+    "MarketName": "AIR 6488 B41",
+    "ProductName": "AIR6488B41"
+  },
+  "KRD 901 108/21"
+  :
+  {
+    "MarketName": "AIR 6488 B41",
+    "ProductName": "AIR6488B41"
+  },
+  "KRD 901 109/1"
+  :
+  {
+    "MarketName": "AIR 6482 B79A",
+    "ProductName": "AIR6482B79A"
+  },
+  "KRD 901 110/1"
+  :
+  {
+    "MarketName": "AIR 6482 B41K",
+    "ProductName": "AIR6482B41K"
+  },
+  "KRD 901 111/1"
+  :
+  {
+    "MarketName": "AIR 4455 B1 B3",
+    "ProductName": "AIR44550103"
+  },
+  "KRD 901 119/1"
+  :
+  {
+    "MarketName": "AIR 6449 B42",
+    "ProductName": "AIR6449B42"
+  },
+  "KRD 901 119/11"
+  :
+  {
+    "MarketName": "AIR 6449 B42",
+    "ProductName": "AIR6449B42"
+  },
+  "KRD 901 119/2"
+  :
+  {
+    "MarketName": "AIR 6449 B42",
+    "ProductName": "AIR6449B42"
+  },
+  "KRD 901 119/21"
+  :
+  {
+    "MarketName": "AIR 6449 B42",
+    "ProductName": "AIR6449B42"
+  },
+  "KRD 901 119/3"
+  :
+  {
+    "MarketName": "AIR 6449 B42",
+    "ProductName": "AIR6449B42"
+  },
+  "KRD 901 119/31"
+  :
+  {
+    "MarketName": "AIR 6449 B42",
+    "ProductName": "AIR6449B42"
+  },
+  "KRD 901 120/1"
+  :
+  {
+    "MarketName": "AIR 6449 B79A",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 120/11"
+  :
+  {
+    "MarketName": "AIR 6449 B79A",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 120/2"
+  :
+  {
+    "MarketName": "AIR 6449 B79A",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 120/21"
+  :
+  {
+    "MarketName": "AIR 6449 B79A",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 121/11"
+  :
+  {
+    "MarketName": "AIR 6468 B41C",
+    "ProductName": "AIR6468B41C"
+  },
+  "KRD 901 123/1"
+  :
+  {
+    "MarketName": "AIR 6488 B41K",
+    "ProductName": "AIR6488B41K"
+  },
+  "KRD 901 123/11"
+  :
+  {
+    "MarketName": "AIR 6488 B41K",
+    "ProductName": "AIR6488B41K"
+  },
+  "KRD 901 123/2"
+  :
+  {
+    "MarketName": "AIR 6488 B41K",
+    "ProductName": "AIR6488B41K"
+  },
+  "KRD 901 123/21"
+  :
+  {
+    "MarketName": "AIR 6488 B41K",
+    "ProductName": "AIR6488B41K"
+  },
+  "KRD 901 124/1"
+  :
+  {
+    "MarketName": "AIR 6488 B42G",
+    "ProductName": "AIR6488B42G"
+  },
+  "KRD 901 124/11"
+  :
+  {
+    "MarketName": "AIR 6488 B42G",
+    "ProductName": "AIR6488B42G"
+  },
+  "KRD 901 124/2"
+  :
+  {
+    "MarketName": "AIR 6488 B42G",
+    "ProductName": "AIR6488B42G"
+  },
+  "KRD 901 124/21"
+  :
+  {
+    "MarketName": "AIR 6488 B42G",
+    "ProductName": "AIR6488B42G"
+  },
+  "KRD 901 141/1"
+  :
+  {
+    "MarketName": "AIR 6449 B41",
+    "ProductName": "AIR6449B41"
+  },
+  "KRD 901 141/11"
+  :
+  {
+    "MarketName": "AIR 6449 B41",
+    "ProductName": "AIR6449B41"
+  },
+  "KRD 901 141/2"
+  :
+  {
+    "MarketName": "AIR 6449 B41",
+    "ProductName": "AIR6449B41"
+  },
+  "KRD 901 141/21"
+  :
+  {
+    "MarketName": "AIR 6449 B41",
+    "ProductName": "AIR6449B41"
+  },
+  "KRD 901 145/1"
+  :
+  {
+    "MarketName": "AIR 4455 B2/B25 B66A",
+    "ProductName": "AIR4455"
+  },
+  "KRD 901 148/11"
+  :
+  {
+    "MarketName": "AIR 6454 B41K",
+    "ProductName": "AIR6454B41K"
+  },
+  "KRD 901 149/1"
+  :
+  {
+    "MarketName": "AIR 3239 B78G",
+    "ProductName": "AIR3239B78G"
+  },
+  "KRD 901 149/11"
+  :
+  {
+    "MarketName": "AIR 3239 B78G",
+    "ProductName": "AIR3239B78G"
+  },
+  "KRD 901 149/2"
+  :
+  {
+    "MarketName": "AIR 3239 B78G",
+    "ProductName": "AIR3239B78G"
+  },
+  "KRD 901 149/21"
+  :
+  {
+    "MarketName": "AIR 3239 B78G",
+    "ProductName": "AIR3239B78G"
+  },
+  "KRD 901 149/3"
+  :
+  {
+    "MarketName": "AIR 3239 B78G",
+    "ProductName": "AIR3239B78G"
+  },
+  "KRD 901 149/31"
+  :
+  {
+    "MarketName": "AIR 3239 B78G",
+    "ProductName": "AIR3239B78G"
+  },
+  "KRD 901 152/1"
+  :
+  {
+    "MarketName": "AIR 3239 B78F",
+    "ProductName": "AIR3239B78F"
+  },
+  "KRD 901 152/11"
+  :
+  {
+    "MarketName": "AIR 3239 B78F",
+    "ProductName": "AIR3239B78F"
+  },
+  "KRD 901 152/2"
+  :
+  {
+    "MarketName": "AIR 3239 B78F",
+    "ProductName": "AIR3239B78F"
+  },
+  "KRD 901 152/21"
+  :
+  {
+    "MarketName": "AIR 3239 B78F",
+    "ProductName": "AIR3239B78F"
+  },
+  "KRD 901 152/3"
+  :
+  {
+    "MarketName": "AIR 3239 B78F",
+    "ProductName": "AIR3239B78F"
+  },
+  "KRD 901 152/31"
+  :
+  {
+    "MarketName": "AIR 3239 B78F",
+    "ProductName": "AIR3239B78F"
+  },
+  "KRD 901 153/1"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239B40"
+  },
+  "KRD 901 153/11"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239B40"
+  },
+  "KRD 901 153/2"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239B40"
+  },
+  "KRD 901 153/21"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239B40"
+  },
+  "KRD 901 153/3"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239B40"
+  },
+  "KRD 901 153/31"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239B40"
+  },
+  "KRD 901 153/6"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239"
+  },
+  "KRD 901 153/61"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239"
+  },
+  "KRD 901 153/7"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239"
+  },
+  "KRD 901 153/71"
+  :
+  {
+    "MarketName": "AIR 3239 B40",
+    "ProductName": "AIR3239"
+  },
+  "KRD 901 154/1"
+  :
+  {
+    "MarketName": "AIR 3239 B77B",
+    "ProductName": "AIR3239B77B"
+  },
+  "KRD 901 154/11"
+  :
+  {
+    "MarketName": "AIR 3239 B77B",
+    "ProductName": "AIR3239B77B"
+  },
+  "KRD 901 154/2"
+  :
+  {
+    "MarketName": "AIR 3239 B77B",
+    "ProductName": "AIR3239B77B"
+  },
+  "KRD 901 154/21"
+  :
+  {
+    "MarketName": "AIR 3239 B77B",
+    "ProductName": "AIR3239B77B"
+  },
+  "KRD 901 154/3"
+  :
+  {
+    "MarketName": "AIR 3239 B77B",
+    "ProductName": "AIR3239B77B"
+  },
+  "KRD 901 154/31"
+  :
+  {
+    "MarketName": "AIR 3239 B77B",
+    "ProductName": "AIR3239B77B"
+  },
+  "KRD 901 155/1"
+  :
+  {
+    "MarketName": "AIR 6488 B41M",
+    "ProductName": "AIR6488B41M"
+  },
+  "KRD 901 155/11"
+  :
+  {
+    "MarketName": "AIR 6488 B41M",
+    "ProductName": "AIR6488B41M"
+  },
+  "KRD 901 156/1"
+  :
+  {
+    "MarketName": "AIR 1626 B41K",
+    "ProductName": "AIR1626B41K"
+  },
+  "KRD 901 156/11"
+  :
+  {
+    "MarketName": "AIR 1626 B41K",
+    "ProductName": "AIR1626B41K"
+  },
+  "KRD 901 156/2"
+  :
+  {
+    "MarketName": "AIR 1626 B41K",
+    "ProductName": "AIR1626B41K"
+  },
+  "KRD 901 156/21"
+  :
+  {
+    "MarketName": "AIR 1626 B41K",
+    "ProductName": "AIR1626B41K"
+  },
+  "KRD 901 158/1"
+  :
+  {
+    "MarketName": "AIR 6488 B41N",
+    "ProductName": "AIR6488B41N"
+  },
+  "KRD 901 158/11"
+  :
+  {
+    "MarketName": "AIR 6488 B41N",
+    "ProductName": "AIR6488B41N"
+  },
+  "KRD 901 159/1"
+  :
+  {
+    "MarketName": "AIR 6488 B42",
+    "ProductName": "AIR6488B42"
+  },
+  "KRD 901 159/11"
+  :
+  {
+    "MarketName": "AIR 6488 B42",
+    "ProductName": "AIR6488B42"
+  },
+  "KRD 901 160/1"
+  :
+  {
+    "MarketName": "AIR 6488 B48",
+    "ProductName": "AIR6488B48"
+  },
+  "KRD 901 160/11"
+  :
+  {
+    "MarketName": "AIR 6488 B48",
+    "ProductName": "AIR6488B48"
+  },
+  "KRD 901 160/2"
+  :
+  {
+    "MarketName": "AIR 6488 B48",
+    "ProductName": "AIR6488B48"
+  },
+  "KRD 901 160/21"
+  :
+  {
+    "MarketName": "AIR 6488 B48",
+    "ProductName": "AIR6488B48"
+  },
+  "KRD 901 161/1"
+  :
+  {
+    "MarketName": "AIR 1636 B41K",
+    "ProductName": "AIR1636B41K"
+  },
+  "KRD 901 161/11"
+  :
+  {
+    "MarketName": "AIR 1636 B41K",
+    "ProductName": "AIR1636B41K"
+  },
+  "KRD 901 161/2"
+  :
+  {
+    "MarketName": "AIR 1636 B41K",
+    "ProductName": "AIR1636B41K"
+  },
+  "KRD 901 161/21"
+  :
+  {
+    "MarketName": "AIR 1636 B41K",
+    "ProductName": "AIR1636B41K"
+  },
+  "KRD 901 165/1"
+  :
+  {
+    "MarketName": "AIR 1281 B257",
+    "ProductName": "AIR1281B257"
+  },
+  "KRD 901 165/2"
+  :
+  {
+    "MarketName": "AIR 1281 B261",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 165/3"
+  :
+  {
+    "MarketName": "AIR 1281 B258B",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 165/4"
+  :
+  {
+    "MarketName": "AIR 1281 B257",
+    "ProductName": "AIR1281B257"
+  },
+  "KRD 901 165/5"
+  :
+  {
+    "MarketName": "AIR 1281 B261",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 165/6"
+  :
+  {
+    "MarketName": "AIR 1281 B258B",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 166/2"
+  :
+  {
+    "MarketName": "AIR 1281 B260",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 166/4"
+  :
+  {
+    "MarketName": "AIR 1281 B260",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 166/5"
+  :
+  {
+    "MarketName": "AIR 1281 B260",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 166/6"
+  :
+  {
+    "MarketName": "AIR 1281 B260",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 168/1"
+  :
+  {
+    "MarketName": "AIR 5322 B260",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 168/4"
+  :
+  {
+    "MarketName": "AIR 5322 B260",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 170/1"
+  :
+  {
+    "MarketName": "AIR 6488 B78M",
+    "ProductName": "AIR6488B78M"
+  },
+  "KRD 901 170/11"
+  :
+  {
+    "MarketName": "AIR 6488 B78M",
+    "ProductName": "AIR6488B478M"
+  },
+  "KRD 901 176/1"
+  :
+  {
+    "MarketName": "AIR 3227 B43",
+    "ProductName": "AIR3227B43"
+  },
+  "KRD 901 176/11"
+  :
+  {
+    "MarketName": "AIR 3227 B43",
+    "ProductName": "AIR3227B43"
+  },
+  "KRD 901 176/2"
+  :
+  {
+    "MarketName": "AIR 3227 B43",
+    "ProductName": "AIR3227B43"
+  },
+  "KRD 901 176/21"
+  :
+  {
+    "MarketName": "AIR 3227 B43",
+    "ProductName": "AIR3227B43"
+  },
+  "KRD 901 176/3"
+  :
+  {
+    "MarketName": "AIR 3227 B43",
+    "ProductName": "AIR3227B43"
+  },
+  "KRD 901 176/31"
+  :
+  {
+    "MarketName": "AIR 3227 B43",
+    "ProductName": "AIR3227B43"
+  },
+  "KRD 901 180/1"
+  :
+  {
+    "MarketName": "AIR 4435 B42",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 180/2"
+  :
+  {
+    "MarketName": "AIR 4435 B42",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 181/1"
+  :
+  {
+    "MarketName": "AIR 3236 B41K",
+    "ProductName": "AIR3236B41K"
+  },
+  "KRD 901 181/11"
+  :
+  {
+    "MarketName": "AIR 3236 B41K",
+    "ProductName": "AIR3236B41K"
+  },
+  "KRD 901 181/2"
+  :
+  {
+    "MarketName": "AIR 3236 B41K",
+    "ProductName": "AIR3236B41K"
+  },
+  "KRD 901 181/21"
+  :
+  {
+    "MarketName": "AIR 3236 B41K",
+    "ProductName": "AIR3236B41K"
+  },
+  "KRD 901 181/3"
+  :
+  {
+    "MarketName": "AIR 3236 B41K",
+    "ProductName": "AIR3236B41K"
+  },
+  "KRD 901 181/31"
+  :
+  {
+    "MarketName": "AIR 3236 B41K",
+    "ProductName": "AIR3236B41K"
+  },
+  "KRD 901 183/1"
+  :
+  {
+    "MarketName": "AIR 3236 B42",
+    "ProductName": "AIR3236B42"
+  },
+  "KRD 901 183/11"
+  :
+  {
+    "MarketName": "AIR 3236 B42",
+    "ProductName": "AIR3236B42"
+  },
+  "KRD 901 183/2"
+  :
+  {
+    "MarketName": "AIR 3236 B42",
+    "ProductName": "AIR3236B42"
+  },
+  "KRD 901 183/21"
+  :
+  {
+    "MarketName": "AIR 3236 B42",
+    "ProductName": "AIR3236B42"
+  },
+  "KRD 901 183/3"
+  :
+  {
+    "MarketName": "AIR 3236 B42",
+    "ProductName": "AIR3236B42"
+  },
+  "KRD 901 183/31"
+  :
+  {
+    "MarketName": "AIR 3236 B42",
+    "ProductName": "AIR3236B42"
+  },
+  "KRD 901 185/1"
+  :
+  {
+    "MarketName": "AIR 4435 B41K",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 187/1"
+  :
+  {
+    "MarketName": "AIR 3239 B78Q",
+    "ProductName": "AIR3239B78Q"
+  },
+  "KRD 901 187/11"
+  :
+  {
+    "MarketName": "AIR 3239 B78Q",
+    "ProductName": "AIR3239B78Q"
+  },
+  "KRD 901 187/2"
+  :
+  {
+    "MarketName": "AIR 3239 B78Q",
+    "ProductName": "AIR3239B78Q"
+  },
+  "KRD 901 187/21"
+  :
+  {
+    "MarketName": "AIR 3239 B78Q",
+    "ProductName": "AIR3239B78Q"
+  },
+  "KRD 901 187/3"
+  :
+  {
+    "MarketName": "AIR 3239 B78Q",
+    "ProductName": "AIR3239B78Q"
+  },
+  "KRD 901 187/31"
+  :
+  {
+    "MarketName": "AIR 3239 B78Q",
+    "ProductName": "AIR3239B78Q"
+  },
+  "KRD 901 188/1"
+  :
+  {
+    "MarketName": "AIR 3227 B42",
+    "ProductName": "AIR3227B42"
+  },
+  "KRD 901 188/11"
+  :
+  {
+    "MarketName": "AIR 3227 B42",
+    "ProductName": "AIR3227B42"
+  },
+  "KRD 901 188/2"
+  :
+  {
+    "MarketName": "AIR 3227 B42",
+    "ProductName": "AIR3227B42"
+  },
+  "KRD 901 188/21"
+  :
+  {
+    "MarketName": "AIR 3227 B42",
+    "ProductName": "AIR3227B42"
+  },
+  "KRD 901 188/3"
+  :
+  {
+    "MarketName": "AIR 3227 B42",
+    "ProductName": "AIR3227B42"
+  },
+  "KRD 901 188/31"
+  :
+  {
+    "MarketName": "AIR 3227 B42",
+    "ProductName": "AIR3227B42"
+  },
+  "KRD 901 189/4"
+  :
+  {
+    "MarketName": "AIR 1281 B258",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 189/5"
+  :
+  {
+    "MarketName": "AIR 1281 B258A",
+    "ProductName": "AIR1281"
+  },
+  "KRD 901 190/1"
+  :
+  {
+    "MarketName": "AIR 3246 B66",
+    "ProductName": "AIR3246B66"
+  },
+  "KRD 901 191/1"
+  :
+  {
+    "MarketName": "AIR 3246 B3",
+    "ProductName": "AIR3246B3"
+  },
+  "KRD 901 191/2"
+  :
+  {
+    "MarketName": "AIR 3246 B3",
+    "ProductName": "AIR3246B3"
+  },
+  "KRD 901 192/1"
+  :
+  {
+    "MarketName": "AIR 3246 B2 B25",
+    "ProductName": "AIR3246B2B25"
+  },
+  "KRD 901 193/2"
+  :
+  {
+    "MarketName": "AIR 3246 B7",
+    "ProductName": "AIR3246B7"
+  },
+  "KRD 901 194/2"
+  :
+  {
+    "MarketName": "AIR 3246 B7A",
+    "ProductName": "AIR3246B7A"
+  },
+  "KRD 901 200/1"
+  :
+  {
+    "MarketName": "AIR 5322 B258",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 200/2"
+  :
+  {
+    "MarketName": "AIR 5322 B258A",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 200/4"
+  :
+  {
+    "MarketName": "AIR 5322 B258",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 200/5"
+  :
+  {
+    "MarketName": "AIR 5322 B258A",
+    "ProductName": "AIR5322"
+  },
+  "KRD 901 201/1"
+  :
+  {
+    "MarketName": "AIR 3227 B78T",
+    "ProductName": "AIR3227B78T"
+  },
+  "KRD 901 201/11"
+  :
+  {
+    "MarketName": "AIR 3227 B78T",
+    "ProductName": "AIR3227B78T"
+  },
+  "KRD 901 201/2"
+  :
+  {
+    "MarketName": "AIR 3227 B78T",
+    "ProductName": "AIR3227B78T"
+  },
+  "KRD 901 201/21"
+  :
+  {
+    "MarketName": "AIR 3227 B78T",
+    "ProductName": "AIR3227B78T"
+  },
+  "KRD 901 201/3"
+  :
+  {
+    "MarketName": "AIR 3227 B78T",
+    "ProductName": "AIR3227B78T"
+  },
+  "KRD 901 201/31"
+  :
+  {
+    "MarketName": "AIR 3227 B78T",
+    "ProductName": "AIR3227B78T"
+  },
+  "KRD 901 203/1"
+  :
+  {
+    "MarketName": "AIR 6449 B43",
+    "ProductName": "AIR6449B43"
+  },
+  "KRD 901 203/11"
+  :
+  {
+    "MarketName": "AIR 6449 B43",
+    "ProductName": "AIR6449B43"
+  },
+  "KRD 901 203/2"
+  :
+  {
+    "MarketName": "AIR 6449 B43",
+    "ProductName": "AIR6449B43"
+  },
+  "KRD 901 203/21"
+  :
+  {
+    "MarketName": "AIR 6449 B43",
+    "ProductName": "AIR6449B43"
+  },
+  "KRD 901 203/3"
+  :
+  {
+    "MarketName": "AIR 6449 B43",
+    "ProductName": "AIR6449B43"
+  },
+  "KRD 901 203/31"
+  :
+  {
+    "MarketName": "AIR 6449 B43",
+    "ProductName": "AIR6449B43"
+  },
+  "KRD 901 203/6"
+  :
+  {
+    "MarketName": "AIR 6449 B43 HP",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 203/61"
+  :
+  {
+    "MarketName": "AIR 6449 B43 HP",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 203/7"
+  :
+  {
+    "MarketName": "AIR 6449 B43 HP",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 203/71"
+  :
+  {
+    "MarketName": "AIR 6449 B43 HP",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 204/1"
+  :
+  {
+    "MarketName": "AIR 6449 B78M",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 204/11"
+  :
+  {
+    "MarketName": "AIR 6449 B78M",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 204/2"
+  :
+  {
+    "MarketName": "AIR 6449 B78M",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 204/21"
+  :
+  {
+    "MarketName": "AIR 6449 B78M",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 204/3"
+  :
+  {
+    "MarketName": "AIR 6449 B78M",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 204/31"
+  :
+  {
+    "MarketName": "AIR 6449 B78M",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 205/1"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 205/11"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 205/2"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 205/21"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 206/1"
+  :
+  {
+    "MarketName": "AIR 6449 B77D",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 206/11"
+  :
+  {
+    "MarketName": "AIR 6449 B77D",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 206/2"
+  :
+  {
+    "MarketName": "AIR 6449 B77D",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 206/21"
+  :
+  {
+    "MarketName": "AIR 6449 B77D",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 207/1"
+  :
+  {
+    "MarketName": "AIR 3237 B78K",
+    "ProductName": "AIR3237"
+  },
+  "KRD 901 207/11"
+  :
+  {
+    "MarketName": "AIR 3237 B78K",
+    "ProductName": "AIR3237"
+  },
+  "KRD 901 207/2"
+  :
+  {
+    "MarketName": "AIR 3237 B78K",
+    "ProductName": "AIR3237"
+  },
+  "KRD 901 207/21"
+  :
+  {
+    "MarketName": "AIR 3237 B78K",
+    "ProductName": "AIR3237"
+  },
+  "KRD 901 208/1"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 208/11"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 208/3"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 208/31"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 210/1"
+  :
+  {
+    "MarketName": "AIR 3219 B41K",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 210/11"
+  :
+  {
+    "MarketName": "AIR 3219 B41K",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 210/3"
+  :
+  {
+    "MarketName": "AIR 3219 B41K",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 210/31"
+  :
+  {
+    "MarketName": "AIR 3219 B41K",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 211/1"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 211/11"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 211/3"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 211/31"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 212/1"
+  :
+  {
+    "MarketName": "AIR 6419 B41",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 212/11"
+  :
+  {
+    "MarketName": "AIR 6419 B41",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 212/3"
+  :
+  {
+    "MarketName": "AIR 6419 B41",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 212/31"
+  :
+  {
+    "MarketName": "AIR 6419 B41",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 213/1"
+  :
+  {
+    "MarketName": "AIR 3268 B42",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 213/11"
+  :
+  {
+    "MarketName": "AIR 3268 B42",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 213/2"
+  :
+  {
+    "MarketName": "AIR 3268 B42",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 213/21"
+  :
+  {
+    "MarketName": "AIR 3268 B42",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 213/3"
+  :
+  {
+    "MarketName": "AIR 3268 B42",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 213/31"
+  :
+  {
+    "MarketName": "AIR 3268 B42",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 214/1"
+  :
+  {
+    "MarketName": "AIR 6449 B78W",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/11"
+  :
+  {
+    "MarketName": "AIR 6449 B78W",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/2"
+  :
+  {
+    "MarketName": "AIR 6449 B78W",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/21"
+  :
+  {
+    "MarketName": "AIR 6449 B78W",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/5"
+  :
+  {
+    "MarketName": "AIR 6449 B78TW",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/51"
+  :
+  {
+    "MarketName": "AIR 6449 B78TW",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/6"
+  :
+  {
+    "MarketName": "AIR 6449 B78TW",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 214/61"
+  :
+  {
+    "MarketName": "AIR 6449 B78TW",
+    "ProductName": "AIR6449"
+  },
+  "KRD 901 215/1"
+  :
+  {
+    "MarketName": "AIR 4435 B41",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 215/2"
+  :
+  {
+    "MarketName": "AIR 4435 B41",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 216/1"
+  :
+  {
+    "MarketName": "AIR 3236 B41",
+    "ProductName": "AIR3236"
+  },
+  "KRD 901 216/11"
+  :
+  {
+    "MarketName": "AIR 3236 B41",
+    "ProductName": "AIR3236"
+  },
+  "KRD 901 216/2"
+  :
+  {
+    "MarketName": "AIR 3236 B41",
+    "ProductName": "AIR3236"
+  },
+  "KRD 901 216/21"
+  :
+  {
+    "MarketName": "AIR 3236 B41",
+    "ProductName": "AIR3236"
+  },
+  "KRD 901 216/3"
+  :
+  {
+    "MarketName": "AIR 3236 B41",
+    "ProductName": "AIR3236"
+  },
+  "KRD 901 219/1"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 219/11"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 219/3"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 219/31"
+  :
+  {
+    "MarketName": "AIR 6419 B42",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 220/1"
+  :
+  {
+    "MarketName": "AIR 3227 B78W",
+    "ProductName": "AIR3227"
+  },
+  "KRD 901 220/11"
+  :
+  {
+    "MarketName": "AIR 3227 B78W",
+    "ProductName": "AIR3227"
+  },
+  "KRD 901 220/2"
+  :
+  {
+    "MarketName": "AIR 3227 B78W",
+    "ProductName": "AIR3227"
+  },
+  "KRD 901 220/21"
+  :
+  {
+    "MarketName": "AIR 3227 B78W",
+    "ProductName": "AIR3227"
+  },
+  "KRD 901 220/3"
+  :
+  {
+    "MarketName": "AIR 3227 B78W",
+    "ProductName": "AIR3227"
+  },
+  "KRD 901 220/31"
+  :
+  {
+    "MarketName": "AIR 3227 B78W",
+    "ProductName": "AIR3227"
+  },
+  "KRD 901 223/1"
+  :
+  {
+    "MarketName": "AIR 3238 B42",
+    "ProductName": "AIR3238"
+  },
+  "KRD 901 223/11"
+  :
+  {
+    "MarketName": "AIR 3238 B42",
+    "ProductName": "AIR3238"
+  },
+  "KRD 901 223/2"
+  :
+  {
+    "MarketName": "AIR 3238 B42",
+    "ProductName": "AIR3238"
+  },
+  "KRD 901 223/21"
+  :
+  {
+    "MarketName": "AIR 3238 B42",
+    "ProductName": "AIR3238"
+  },
+  "KRD 901 223/4"
+  :
+  {
+    "MarketName": "AIR 3238 B42",
+    "ProductName": "AIR3238"
+  },
+  "KRD 901 223/41"
+  :
+  {
+    "MarketName": "AIR 3238 B42",
+    "ProductName": "AIR3238"
+  },
+  "KRD 901 224/1"
+  :
+  {
+    "MarketName": "AIR 5343 B258",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 224/11"
+  :
+  {
+    "MarketName": "AIR 5343 B258",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 224/4"
+  :
+  {
+    "MarketName": "AIR 5343 B258",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 224/41"
+  :
+  {
+    "MarketName": "AIR 5343 B258",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 225/1"
+  :
+  {
+    "MarketName": "AIR 4435 B77D",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 225/2"
+  :
+  {
+    "MarketName": "AIR 4435 B77D",
+    "ProductName": "AIR4435"
+  },
+  "KRD 901 226/1"
+  :
+  {
+    "MarketName": "AIR 3219 B40",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 226/11"
+  :
+  {
+    "MarketName": "AIR 3219 B40",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 226/3"
+  :
+  {
+    "MarketName": "AIR 3219 B40",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 226/31"
+  :
+  {
+    "MarketName": "AIR 3219 B40",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 228/1"
+  :
+  {
+    "MarketName": "AIR 6419 B40",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 228/11"
+  :
+  {
+    "MarketName": "AIR 6419 B40",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 228/2"
+  :
+  {
+    "MarketName": "AIR 6419 B40",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 228/21"
+  :
+  {
+    "MarketName": "AIR 6419 B40",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 228/3"
+  :
+  {
+    "MarketName": "AIR 6419 B40",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 228/31"
+  :
+  {
+    "MarketName": "AIR 6419 B40",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 230/4"
+  :
+  {
+    "MarketName": "Indoor AIR 1279 B260",
+    "ProductName": "AIR1279"
+  },
+  "KRD 901 232/1"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 232/11"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 232/3"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 232/31"
+  :
+  {
+    "MarketName": "AIR 3219 B42",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 234/1"
+  :
+  {
+    "MarketName": "AIR 3268 B78Y",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 234/11"
+  :
+  {
+    "MarketName": "AIR 3268 B78Y",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 234/2"
+  :
+  {
+    "MarketName": "AIR 3268 B78Y",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 234/21"
+  :
+  {
+    "MarketName": "AIR 3268 B78Y",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 234/3"
+  :
+  {
+    "MarketName": "AIR 3268 B78Y",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 234/31"
+  :
+  {
+    "MarketName": "AIR 3268 B78Y",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 236/1"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R M2D",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 236/11"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R M2D",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 236/2"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R M2D",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 236/21"
+  :
+  {
+    "MarketName": "AIR 3228 B38A B78R M2D",
+    "ProductName": "AIR3228"
+  },
+  "KRD 901 238/1"
+  :
+  {
+    "MarketName": "AIR 6419 B77G",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 238/11"
+  :
+  {
+    "MarketName": "AIR 6419 B77G",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 238/3"
+  :
+  {
+    "MarketName": "AIR 6419 B77G",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 238/31"
+  :
+  {
+    "MarketName": "AIR 6419 B77G",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 242/1"
+  :
+  {
+    "MarketName": "AIR 6419 B78Y",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 242/11"
+  :
+  {
+    "MarketName": "AIR 6419 B78Y",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 242/3"
+  :
+  {
+    "MarketName": "AIR 6419 B78Y",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 242/31"
+  :
+  {
+    "MarketName": "AIR 6419 B78Y",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 243/1"
+  :
+  {
+    "MarketName": "AIR 6428 B78V",
+    "ProductName": "AIR6428"
+  },
+  "KRD 901 243/11"
+  :
+  {
+    "MarketName": "AIR 6428 B78V",
+    "ProductName": "AIR6428"
+  },
+  "KRD 901 243/2"
+  :
+  {
+    "MarketName": "AIR 6428 B78V",
+    "ProductName": "AIR6428"
+  },
+  "KRD 901 243/21"
+  :
+  {
+    "MarketName": "AIR 6428 B78V",
+    "ProductName": "AIR6428"
+  },
+  "KRD 901 244/1"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 244/11"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 244/3"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 244/31"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 246/1"
+  :
+  {
+    "MarketName": "AIR 3218 B78V",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 246/11"
+  :
+  {
+    "MarketName": "AIR 3218 B78V",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 246/3"
+  :
+  {
+    "MarketName": "AIR 3218 B78V",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 246/31"
+  :
+  {
+    "MarketName": "AIR 3218 B78V",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 248/1"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 248/11"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 248/3"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 248/31"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 250/1"
+  :
+  {
+    "MarketName": "AIR 6419 B78A",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 250/11"
+  :
+  {
+    "MarketName": "AIR 6419 B78A",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 250/3"
+  :
+  {
+    "MarketName": "AIR 6419 B78A",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 250/31"
+  :
+  {
+    "MarketName": "AIR 6419 B78A",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 251/1"
+  :
+  {
+    "MarketName": "AIR 1652 B77D",
+    "ProductName": "AIR1652"
+  },
+  "KRD 901 251/11"
+  :
+  {
+    "MarketName": "AIR 1652 B77D",
+    "ProductName": "AIR1652"
+  },
+  "KRD 901 251/3"
+  :
+  {
+    "MarketName": "AIR 1652 B77D",
+    "ProductName": "AIR1652"
+  },
+  "KRD 901 251/31"
+  :
+  {
+    "MarketName": "AIR 1652 B77D",
+    "ProductName": "AIR1652"
+  },
+  "KRD 901 252/1"
+  :
+  {
+    "MarketName": "AIR 6419 B77D",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 252/11"
+  :
+  {
+    "MarketName": "AIR 6419 B77D",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 252/3"
+  :
+  {
+    "MarketName": "AIR 6419 B77D",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 252/31"
+  :
+  {
+    "MarketName": "AIR 6419 B77D",
+    "ProductName": "AIR6419"
+  },
+  "KRD 901 253/1"
+  :
+  {
+    "MarketName": "AIR 5343 B258A",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 253/11"
+  :
+  {
+    "MarketName": "AIR 5343 B258A",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 253/4"
+  :
+  {
+    "MarketName": "AIR 5343 B258A",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 253/41"
+  :
+  {
+    "MarketName": "AIR 5343 B258A",
+    "ProductName": "AIR5343"
+  },
+  "KRD 901 254/1"
+  :
+  {
+    "MarketName": "AIR 3268 B48",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 254/11"
+  :
+  {
+    "MarketName": "AIR 3268 B48",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 254/3"
+  :
+  {
+    "MarketName": "AIR 3268 B48",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 254/31"
+  :
+  {
+    "MarketName": "AIR 3268 B48",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 255/1"
+  :
+  {
+    "MarketName": "AIR 3268 B78AA",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 255/11"
+  :
+  {
+    "MarketName": "AIR 3268 B78AA",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 255/2"
+  :
+  {
+    "MarketName": "AIR 3268 B78AA",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 255/21"
+  :
+  {
+    "MarketName": "AIR 3268 B78AA",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 255/3"
+  :
+  {
+    "MarketName": "AIR 3268 B78AA",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 255/31"
+  :
+  {
+    "MarketName": "AIR 3268 B78AA",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 256/1"
+  :
+  {
+    "MarketName": "AIR 3218 B78Y",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 256/11"
+  :
+  {
+    "MarketName": "AIR 3218 B78Y",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 256/3"
+  :
+  {
+    "MarketName": "AIR 3218 B78Y",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 256/31"
+  :
+  {
+    "MarketName": "AIR 3218 B78Y",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 261/11"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 261/3"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 261/31"
+  :
+  {
+    "MarketName": "AIR 3218 B42",
+    "ProductName": "AIR3218"
+  },
+  "KRD 901 263/1"
+  :
+  {
+    "MarketName": "AIR 3268 B78T",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 263/11"
+  :
+  {
+    "MarketName": "AIR 3268 B78T",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 263/2"
+  :
+  {
+    "MarketName": "AIR 3268 B78T",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 263/21"
+  :
+  {
+    "MarketName": "AIR 3268 B78T",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 263/3"
+  :
+  {
+    "MarketName": "AIR 3268 B78T",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 263/31"
+  :
+  {
+    "MarketName": "AIR 3268 B78T",
+    "ProductName": "AIR3268"
+  },
+  "KRD 901 266/1"
+  :
+  {
+    "MarketName": "AIR 3278 B78K",
+    "ProductName": "AIR3278B78K"
+  },
+  "KRD 901 266/11"
+  :
+  {
+    "MarketName": "AIR 3278 B78K",
+    "ProductName": "AIR3278B78K"
+  },
+  "KRD 901 266/21"
+  :
+  {
+    "MarketName": "AIR 3278 B78K",
+    "ProductName": "AIR3278B78K"
+  },
+  "KRD 901 266/3"
+  :
+  {
+    "MarketName": "AIR 3278 B78K",
+    "ProductName": "AIR3278B78K"
+  },
+  "KRD 901 266/31"
+  :
+  {
+    "MarketName": "AIR 3278 B78K",
+    "ProductName": "AIR3278B78K"
+  },
+  "KRD 901 267/1"
+  :
+  {
+    "MarketName": "AIR 3219 B38A",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 267/11"
+  :
+  {
+    "MarketName": "AIR 3219 B38A",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 267/3"
+  :
+  {
+    "MarketName": "AIR 3219 B38A",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 267/31"
+  :
+  {
+    "MarketName": "AIR 3219 B38A",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 268/1"
+  :
+  {
+    "MarketName": "AIR 3258 B78V",
+    "ProductName": "AIR3258"
+  },
+  "KRD 901 268/11"
+  :
+  {
+    "MarketName": "AIR 3258 B78V",
+    "ProductName": "AIR3258"
+  },
+  "KRD 901 268/3"
+  :
+  {
+    "MarketName": "AIR 3258 B78V",
+    "ProductName": "AIR3258"
+  },
+  "KRD 901 268/31"
+  :
+  {
+    "MarketName": "AIR 3258 B78V",
+    "ProductName": "AIR3258"
+  },
+  "KRD 901 666/1"
+  :
+  {
+    "MarketName": "AIR 3219 B78AA",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 666/11"
+  :
+  {
+    "MarketName": "AIR 3219 B78AA",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 666/3"
+  :
+  {
+    "MarketName": "AIR 3219 B78AA",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 666/31"
+  :
+  {
+    "MarketName": "AIR 3219 B78AA",
+    "ProductName": "AIR3219"
+  },
+  "KRD 901 800/1"
+  :
+  {
+    "MarketName": "AIR 1641 B2/25a B66a",
+    "ProductName": "AIR1641B2566"
+  },
+  "KRD 901 801/1"
+  :
+  {
+    "MarketName": "AIR 1641 B1a B3a",
+    "ProductName": "AIR1641B1B3"
+  },
+  "KRD 901 892/1"
+  :
+  {
+    "MarketName": "AIR 3283 B25 B66",
+    "ProductName": "AIR3283"
+  },
+  "KRD 901 892/11"
+  :
+  {
+    "MarketName": "AIR 3283 B25 B66",
+    "ProductName": "AIR3283"
+  },
+  "KRD 901 892/2"
+  :
+  {
+    "MarketName": "AIR 3283 B25 B66",
+    "ProductName": "AIR3283"
+  },
+  "KRD 901 892/21"
+  :
+  {
+    "MarketName": "AIR 3283 B25 B66",
+    "ProductName": "AIR3283"
+  },
+  "KRK 101 01/11"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B261",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 01/21"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B261",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 02/11"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B260",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 03/11"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B257B",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 04/11"
+  :
+  {
+    "MarketName": "Streetmacro 6705 B261",
+    "ProductName": "RBU6705"
+  },
+  "KRK 101 04/21"
+  :
+  {
+    "MarketName": "Streetmacro 6705 B261",
+    "ProductName": "RBU6705"
+  },
+  "KRK 101 05/11"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B257",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 07/11"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B260",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 08/11"
+  :
+  {
+    "MarketName": "Streetmacro 6701 B258B",
+    "ProductName": "RBU6701"
+  },
+  "KRK 101 09/11"
+  :
+  {
+    "MarketName": "Streetmacro 6705 B257",
+    "ProductName": "RBU6705"
+  },
+  "KRK 101 10/11"
+  :
+  {
+    "MarketName": "Streetmacro 6705 B260",
+    "ProductName": "RBU6705"
+  },
+  "KRK 101 10/21"
+  :
+  {
+    "MarketName": "Streetmacro 6705 B260",
+    "ProductName": "RBU6705"
+  },
+  "KRK 101 11/11"
+  :
+  {
+    "MarketName": "Streetmacro 6717 B260 B261",
+    "ProductName": "RBU6717"
+  },
+  "KRK 101 11/21"
+  :
+  {
+    "MarketName": "Streetmacro 6717 B260 B261",
+    "ProductName": "RBU6717"
+  },
+  "KRY 901 309/1"
+  :
+  {
+    "MarketName": "RD 2242 B4",
+    "ProductName": "RD 2242 B4"
+  },
+  "KRY 901 326/1"
+  :
+  {
+    "MarketName": "RD 2242 B17",
+    "ProductName": "RD 2242 B17"
+  },
+  "KRY 901 327/1"
+  :
+  {
+    "MarketName": "RD 2242 B1",
+    "ProductName": "RD 2242 B1"
+  },
+  "KRY 901 328/1"
+  :
+  {
+    "MarketName": "RD 2242 B2",
+    "ProductName": "RD 2242 B2"
+  },
+  "KRY 901 329/1"
+  :
+  {
+    "MarketName": "RD 2242 B12",
+    "ProductName": "RD 2242 B12"
+  },
+  "KRY 901 330/1"
+  :
+  {
+    "MarketName": "RD 2242 B7",
+    "ProductName": "RD 2242 B7"
+  },
+  "KRY 901 330/2"
+  :
+  {
+    "MarketName": "RD 2242 B7",
+    "ProductName": "RD 2242 B7"
+  },
+  "KRY 901 331/1"
+  :
+  {
+    "MarketName": "RD 2242 B3",
+    "ProductName": "RD 2242 B3"
+  },
+  "KRY 901 332/1"
+  :
+  {
+    "MarketName": "RD 2242 B5",
+    "ProductName": "RD 2242 B5"
+  },
+  "KRY 901 333/1"
+  :
+  {
+    "MarketName": "RD 2242 B8",
+    "ProductName": "RD 2242 B8"
+  },
+  "KRY 901 334/1"
+  :
+  {
+    "MarketName": "RD 2242 B13",
+    "ProductName": "RD 2242 B13"
+  },
+  "KRY 901 335/1"
+  :
+  {
+    "MarketName": "RD 2242 B20",
+    "ProductName": "RD 2242 B20"
+  },
+  "KRY 901 336/1"
+  :
+  {
+    "MarketName": "RD 2242 B25",
+    "ProductName": "RD 2242 B25"
+  },
+  "KRY 901 342/1"
+  :
+  {
+    "MarketName": "RD 2242 B18",
+    "ProductName": "RD 2242 B18"
+  },
+  "KRY 901 345/1"
+  :
+  {
+    "MarketName": "Support 6501",
+    "ProductName": "Support 6501"
+  },
+  "KRY 901 345/2"
+  :
+  {
+    "MarketName": "Support 6502",
+    "ProductName": "Support 6502"
+  },
+  "KRY 901 348/1"
+  :
+  {
+    "MarketName": "RD 2242 B40",
+    "ProductName": "RD 2242 B40"
+  },
+  "KRY 901 348/2"
+  :
+  {
+    "MarketName": "RD 2242 B40",
+    "ProductName": "RD 2242 B40"
+  },
+  "KRY 901 349/1"
+  :
+  {
+    "MarketName": "RD 2242 B40A",
+    "ProductName": "RD 2242 B40A"
+  },
+  "KRY 901 369/1"
+  :
+  {
+    "MarketName": "Support 6503",
+    "ProductName": "Support 6503"
+  },
+  "KRY 901 369/2"
+  :
+  {
+    "MarketName": "Support 6504",
+    "ProductName": "Support 6504"
+  },
+  "KRY 901 378/1"
+  :
+  {
+    "MarketName": "RD 4442 B1B3",
+    "ProductName": "RD 4442 B1B3"
+  },
+  "KRY 901 378/2"
+  :
+  {
+    "MarketName": "RD 4453 B1B3",
+    "ProductName": "RD 4453 B1B3"
+  },
+  "KRY 901 380/1"
+  :
+  {
+    "MarketName": "Support 6509",
+    "ProductName": "Support 6509"
+  },
+  "KRY 901 380/2"
+  :
+  {
+    "MarketName": "Support 6510",
+    "ProductName": "Support 6510"
+  },
+  "KRY 901 380/3"
+  :
+  {
+    "MarketName": "Support 6521",
+    "ProductName": "Support 6521"
+  },
+  "KRY 901 381/1"
+  :
+  {
+    "MarketName": "Support 6511",
+    "ProductName": "Support 6511"
+  },
+  "KRY 901 381/2"
+  :
+  {
+    "MarketName": "Support 6512",
+    "ProductName": "Support 6512"
+  },
+  "KRY 901 382/1"
+  :
+  {
+    "MarketName": "Support 6513",
+    "ProductName": "Support 6513"
+  },
+  "KRY 901 382/2"
+  :
+  {
+    "MarketName": "Support 6514",
+    "ProductName": "Support 6514"
+  },
+  "KRY 901 383/1"
+  :
+  {
+    "MarketName": "RD 2243 B40A",
+    "ProductName": "RD 2243 B40A"
+  },
+  "KRY 901 383/2"
+  :
+  {
+    "MarketName": "RD 2253 B40A",
+    "ProductName": "RD 2253 B40A"
+  },
+  "KRY 901 385/1"
+  :
+  {
+    "MarketName": "RD 4442 B48",
+    "ProductName": "RD 4442 B48"
+  },
+  "KRY 901 386/1"
+  :
+  {
+    "MarketName": "RD 4442 B25B66A",
+    "ProductName": "RD 4442 B25B66A"
+  },
+  "KRY 901 388/1"
+  :
+  {
+    "MarketName": "Support 6515",
+    "ProductName": "Support 6515"
+  },
+  "KRY 901 388/2"
+  :
+  {
+    "MarketName": "Support 6516",
+    "ProductName": "Support 6516"
+  },
+  "KRY 901 389/1"
+  :
+  {
+    "MarketName": "RD 2243 B1",
+    "ProductName": "RD 2243 B1"
+  },
+  "KRY 901 390/1"
+  :
+  {
+    "MarketName": "RD 2243 B3",
+    "ProductName": "RD 2243 B3"
+  },
+  "KRY 901 391/1"
+  :
+  {
+    "MarketName": "RD 4442 B1B7",
+    "ProductName": "RD 4442 B1B7"
+  },
+  "KRY 901 392/1"
+  :
+  {
+    "MarketName": "RD 2243 B7",
+    "ProductName": "RD 2243 B7"
+  },
+  "KRY 901 399/1"
+  :
+  {
+    "MarketName": "RD 4442 B3B7",
+    "ProductName": "RD 4442 B3B7"
+  },
+  "KRY 901 401/1"
+  :
+  {
+    "MarketName": "RD 4442 B40AB3",
+    "ProductName": "RD 4442 B40AB3"
+  },
+  "KRY 901 402/1"
+  :
+  {
+    "MarketName": "RD 2243 B41",
+    "ProductName": "RD 2243 B41"
+  },
+  "KRY 901 403/1"
+  :
+  {
+    "MarketName": "RD 2243 B8",
+    "ProductName": "RD 2243 B8"
+  },
+  "KRY 901 406/1"
+  :
+  {
+    "MarketName": "RD 2243 B38A",
+    "ProductName": "RD 2243 B38A"
+  },
+  "KRY 901 407/1"
+  :
+  {
+    "MarketName": "RD 4442 B30",
+    "ProductName": "RD 4442 B30"
+  },
+  "KRY 901 409/1"
+  :
+  {
+    "MarketName": "RD 2243 B40T",
+    "ProductName": "RD 2243 B40T"
+  },
+  "KRY 901 416/1"
+  :
+  {
+    "MarketName": "Support 6337",
+    "ProductName": "Support 6337"
+  },
+  "KRY 901 416/2"
+  :
+  {
+    "MarketName": "Support 6337",
+    "ProductName": "Support 6337"
+  },
+  "KRY 901 418/1"
+  :
+  {
+    "MarketName": "Dot 2272 B3EB40A",
+    "ProductName": "Dot 2272 B3EB40A"
+  },
+  "KRY 901 418/2"
+  :
+  {
+    "MarketName": "RD 2282 B3 B40A",
+    "ProductName": "RD 2282 B3 B40A"
+  },
+  "KRY 901 419/1"
+  :
+  {
+    "MarketName": "Dot 2272 B1B3",
+    "ProductName": "Dot 2272 B1B3"
+  },
+  "KRY 901 419/2"
+  :
+  {
+    "MarketName": "Dot 2282 B1B3",
+    "ProductName": "Dot 2282 B1B3"
+  },
+  "KRY 901 426/1"
+  :
+  {
+    "MarketName": "Dot 2272 PPDR1B38A",
+    "ProductName": "Dot 2272 PPDR1B38A"
+  },
+  "KRY 901 426/2"
+  :
+  {
+    "MarketName": "Dot 2282 PPDR1B38A",
+    "ProductName": "Dot 2282 PPDR1B38A"
+  },
+  "KRY 901 426/3"
+  :
+  {
+    "MarketName": "Dot 22Rn B38A",
+    "ProductName": "RD22Rn B38A"
+  },
+  "KRY 901 426/4"
+  :
+  {
+    "MarketName": "Dot 21Rn B38A",
+    "ProductName": "RD21Rn B38A"
+  },
+  "KRY 901 428/1"
+  :
+  {
+    "MarketName": "Dot 2272 B5B12A",
+    "ProductName": "Dot 2272 B5B12A"
+  },
+  "KRY 901 428/2"
+  :
+  {
+    "MarketName": "Dot 2282 B5B12A",
+    "ProductName": "Dot 2282 B5B12A"
+  },
+  "KRY 901 431/1"
+  :
+  {
+    "MarketName": "Dot 4479 B78A",
+    "ProductName": "Dot 4479 B78A"
+  },
+  "KRY 901 431/2"
+  :
+  {
+    "MarketName": "Dot 4489 B78A",
+    "ProductName": "Dot 4489 B78A"
+  },
+  "KRY 901 431/3"
+  :
+  {
+    "MarketName": "Dot 44Ar B78A",
+    "ProductName": "RD44Ar B78A"
+  },
+  "KRY 901 431/4"
+  :
+  {
+    "MarketName": "Dot 41Ar B78A",
+    "ProductName": "RD41Ar B78A"
+  },
+  "KRY 901 432/1"
+  :
+  {
+    "MarketName": "Dot 4479 B41K",
+    "ProductName": "Dot 4479 B41K"
+  },
+  "KRY 901 432/2"
+  :
+  {
+    "MarketName": "Dot 4489 B41K",
+    "ProductName": "Dot 4489 B41K"
+  },
+  "KRY 901 433/1"
+  :
+  {
+    "MarketName": "Dot 4479 B78L",
+    "ProductName": "Dot 4479 B78L"
+  },
+  "KRY 901 433/2"
+  :
+  {
+    "MarketName": "Dot 4489 B78L",
+    "ProductName": "Dot 4489 B78L"
+  },
+  "KRY 901 433/3"
+  :
+  {
+    "MarketName": "Dot 44Ar B78L",
+    "ProductName": "RD44Ar B78L"
+  },
+  "KRY 901 433/4"
+  :
+  {
+    "MarketName": "Dot 41Ar B78L",
+    "ProductName": "RD41Ar B78L"
+  },
+  "KRY 901 440/1"
+  :
+  {
+    "MarketName": "Dot 4475 B41KB3EB40A",
+    "ProductName": "RD475B4140B3"
+  },
+  "KRY 901 440/2"
+  :
+  {
+    "MarketName": "Dot 4485 B41KB3EB40A",
+    "ProductName": "RD485B4140B3"
+  },
+  "KRY 901 441/1"
+  :
+  {
+    "MarketName": "Dot 4474 B78U B78U",
+    "ProductName": "RD474B78U78U"
+  },
+  "KRY 901 441/2"
+  :
+  {
+    "MarketName": "Dot 4484 B78U B78U",
+    "ProductName": "RD484B78U78U"
+  },
+  "KRY 901 451/1"
+  :
+  {
+    "MarketName": "RD 2243 B14",
+    "ProductName": "RD 2243 B14"
+  },
+  "KRY 901 461/1"
+  :
+  {
+    "MarketName": "Dot 2224 B78 B1",
+    "ProductName": "RD2224"
+  },
+  "KRY 901 462/1"
+  :
+  {
+    "MarketName": "IAU 6622",
+    "ProductName": "IAU6622"
+  },
+  "KRY 901 466/1"
+  :
+  {
+    "MarketName": "Dot 2272 B5 B13",
+    "ProductName": "RD2272B5B13"
+  },
+  "KRY 901 466/2"
+  :
+  {
+    "MarketName": "Dot 2282 B5 B13",
+    "ProductName": "RD2282B5B13"
+  },
+  "KRY 901 468/1"
+  :
+  {
+    "MarketName": "Dot 2274 B25 B66",
+    "ProductName": "RD2274"
+  },
+  "KRY 901 468/2"
+  :
+  {
+    "MarketName": "Dot 2284 B25 B66",
+    "ProductName": "RD2284"
+  },
+  "KRY 901 469/1"
+  :
+  {
+    "MarketName": "Dot 2272 B1 B7",
+    "ProductName": "RD2272"
+  },
+  "KRY 901 469/2"
+  :
+  {
+    "MarketName": "Dot 2282 B1 B7",
+    "ProductName": "RD2282"
+  },
+  "KRY 901 469/3"
+  :
+  {
+    "MarketName": "Dot 22Rn B1 B7",
+    "ProductName": "RD22Rn B1B7"
+  },
+  "KRY 901 469/4"
+  :
+  {
+    "MarketName": "Dot 21Rn B1 B7",
+    "ProductName": "RD21Rn B1B7"
+  },
+  "KRY 901 470/1"
+  :
+  {
+    "MarketName": "Dot 2272 B3 B7",
+    "ProductName": "RD2272"
+  },
+  "KRY 901 470/2"
+  :
+  {
+    "MarketName": "Dot 2282 B3 B7",
+    "ProductName": "RD2282"
+  },
+  "KRY 901 474/1"
+  :
+  {
+    "MarketName": "N/A",
+    "ProductName": "Support 6339"
+  },
+  "KRY 901 474/2"
+  :
+  {
+    "MarketName": "N/A",
+    "ProductName": "Support 6339"
+  },
+  "KRY 901 479/1"
+  :
+  {
+    "MarketName": "Dot 4475 B78K B1 B3",
+    "ProductName": "RD475B78K1B3"
+  },
+  "KRY 901 479/2"
+  :
+  {
+    "MarketName": "Dot 4485 B78K B1 B3",
+    "ProductName": "RD485B78K1B3"
+  },
+  "KRY 901 489/1"
+  :
+  {
+    "MarketName": "Dot 4475 B78U B1 B3",
+    "ProductName": "RD475B78U1B3"
+  },
+  "KRY 901 489/2"
+  :
+  {
+    "MarketName": "Dot 4485 B78U B1 B3",
+    "ProductName": "RD485B78U1B3"
+  },
+  "KRY 901 501/1"
+  :
+  {
+    "MarketName": "Dot 4455 B41K B3E B40A",
+    "ProductName": "RD455B4140B3"
+  },
+  "KRY 901 501/2"
+  :
+  {
+    "MarketName": "Dot 4465 B41K B3E B40A",
+    "ProductName": "RD465B4140B3"
+  },
+  "KRY 901 502/1"
+  :
+  {
+    "MarketName": "Dot 4459 B41K",
+    "ProductName": "RD4459 B41K"
+  },
+  "KRY 901 502/2"
+  :
+  {
+    "MarketName": "Dot 4469 B41K",
+    "ProductName": "RD4469 B41K"
+  },
+  "KRY 901 506/1"
+  :
+  {
+    "MarketName": "Dot 4475 B41 B1 B3",
+    "ProductName": "RD475B41B1B3"
+  },
+  "KRY 901 506/2"
+  :
+  {
+    "MarketName": "Dot 4485 B41 B1 B3",
+    "ProductName": "RD485B41B1B3"
+  },
+  "KRY 901 508/1"
+  :
+  {
+    "MarketName": "Dot 4474 B78K B78K",
+    "ProductName": "RD4474 B78K"
+  },
+  "KRY 901 508/2"
+  :
+  {
+    "MarketName": "Dot 4484 B78K B78K",
+    "ProductName": "RD4484 B78K"
+  },
+  "KRY 901 509/1"
+  :
+  {
+    "MarketName": "Dot 4475 B78D B1C B3H",
+    "ProductName": "RD475B78B1B3"
+  },
+  "KRY 901 509/2"
+  :
+  {
+    "MarketName": "Dot 4485 B78D B1C B3H",
+    "ProductName": "RD485B78B1B3"
+  },
+  "KRY 901 510/1"
+  :
+  {
+    "MarketName": "Dot 4479 B78K",
+    "ProductName": "RD4479 B78K"
+  },
+  "KRY 901 510/2"
+  :
+  {
+    "MarketName": "Dot 4489 B78K",
+    "ProductName": "RD4489 B78K"
+  },
+  "KRY 901 510/3"
+  :
+  {
+    "MarketName": "Dot 44Ar B78K",
+    "ProductName": "RD44Ar B78K"
+  },
+  "KRY 901 510/4"
+  :
+  {
+    "MarketName": "Dot 41Ar B78K",
+    "ProductName": "RD41Ar B78K"
+  },
+  "KRY 901 515/1"
+  :
+  {
+    "MarketName": "Dot 4459 B77D",
+    "ProductName": "RD4459 B77D"
+  },
+  "KRY 901 515/2"
+  :
+  {
+    "MarketName": "Dot 4469 B77D",
+    "ProductName": "RD4469 B77D"
+  },
+  "KRY 901 515/3"
+  :
+  {
+    "MarketName": "Dot 44Kr B77D",
+    "ProductName": "RD44Kr B77D"
+  },
+  "KRY 901 515/4"
+  :
+  {
+    "MarketName": "Dot 41Kr B77D",
+    "ProductName": "RD41Kr B77D"
+  },
+  "KRY 901 516/1"
+  :
+  {
+    "MarketName": "Dot 4459 B48",
+    "ProductName": "RD4459B48"
+  },
+  "KRY 901 516/2"
+  :
+  {
+    "MarketName": "Dot 4469 B48",
+    "ProductName": "RD4469B48"
+  },
+  "KRY 901 516/3"
+  :
+  {
+    "MarketName": "Dot 44Kr B48",
+    "ProductName": "RD44Kr B48"
+  },
+  "KRY 901 516/4"
+  :
+  {
+    "MarketName": "Dot 41Kr B48",
+    "ProductName": "RD41Kr B48"
+  },
+  "KRY 901 523/1"
+  :
+  {
+    "MarketName": "Dot 4455 B77DB25B66",
+    "ProductName": "RD455B772566"
+  },
+  "KRY 901 523/2"
+  :
+  {
+    "MarketName": "Dot 4465 B77DB25B66",
+    "ProductName": "RD465B772566"
+  },
+  "KRY 901 536/1"
+  :
+  {
+    "MarketName": "Dot 4453 B78K B3 B7",
+    "ProductName": "RD453B78K3B7"
+  },
+  "KRY 901 536/2"
+  :
+  {
+    "MarketName": "Dot 4463 B78K B3 B7",
+    "ProductName": "RD463B78K3B7"
+  },
+  "KRY 901 537/1"
+  :
+  {
+    "MarketName": "Dot2256 B48B41B25B66",
+    "ProductName": "RD256B484124"
+  },
+  "KRY 901 537/2"
+  :
+  {
+    "MarketName": "Dot2266 B48B41B25B66",
+    "ProductName": "RD266B484124"
+  },
+  "KRY 901 543/1"
+  :
+  {
+    "MarketName": "Dot 4455 B78U B1 B3",
+    "ProductName": "RD455B78U1B3"
+  },
+  "KRY 901 543/2"
+  :
+  {
+    "MarketName": "Dot 4465 B78U B1 B3",
+    "ProductName": "RD465B78U1B3"
+  },
+  "KRY 901 544/1"
+  :
+  {
+    "MarketName": "Dot 4459 B78U",
+    "ProductName": "RD4459 B78U"
+  },
+  "KRY 901 544/2"
+  :
+  {
+    "MarketName": "Dot 4469 B78U",
+    "ProductName": "RD4469 B78U"
+  },
+  "KRY 901 555/1"
+  :
+  {
+    "MarketName": "Dot 4479 B79D",
+    "ProductName": "RD4479B79D"
+  },
+  "KRY 901 555/2"
+  :
+  {
+    "MarketName": "Dot 4489 B79D",
+    "ProductName": "RD4489B79D"
+  },
+  "KRY 901 555/3"
+  :
+  {
+    "MarketName": "Dot 44Ar B79D",
+    "ProductName": "RD44Ar B79D"
+  },
+  "KRY 901 555/4"
+  :
+  {
+    "MarketName": "Dot 41Ar B79D",
+    "ProductName": "RD41Ar B79D"
+  }
+]
