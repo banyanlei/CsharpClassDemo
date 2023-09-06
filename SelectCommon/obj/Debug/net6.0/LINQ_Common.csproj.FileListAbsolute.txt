@@ -3,7 +3,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.dep
 C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.runtimeconfig.json
 C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.dll
 C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.csproj.AssemblyReference.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.AssemblyInfoInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.AssemblyInfo.cs

@@ -31,23 +31,58 @@ namespace _test
             //val = RunAisgDeviceScan(out deviceType);
             //uint max = uint.MaxValue;//4294967295
 
-            //string responsePower = "-54.581 -106.330  -54.730 -106.330  -54.864 -106.330  -54.875 -106.330  -55.501 -106.330  -55.406 -106.330";
-            var responsePower = new List<double>(){ 1,2};
-            var result = responsePower.Skip(2).Take(2);
+            ////string responsePower = "-54.581 -106.330  -54.730 -106.330  -54.864 -106.330  -54.875 -106.330  -55.501 -106.330  -55.406 -106.330";
+            //var responsePower = new List<double>(){ 1,2};
+            //var result = responsePower.Skip(2).Take(2);
 
-            //var powers = Regex.Matches(responsePower, @"[\-\d.]+").Select(m => double.Parse(m.Value));
+            ////var powers = Regex.Matches(responsePower, @"[\-\d.]+").Select(m => double.Parse(m.Value));
 
 
 
-            string deviceType, val;
-            val = RunAisgDeviceScan(out deviceType);
-            uint max = uint.MaxValue;//4294967295
+            //string deviceType, val;
+            //val = RunAisgDeviceScan(out deviceType);
+            //uint max = uint.MaxValue;//4294967295
 
+            ////Func<int, int> square = x => x * x;
+            //Func<int, int> square = x => x * x;
+            //int result = square(5); // 使用 Lambda 表达式计算 5 的平方，结果为 25
+
+            //var numbers = new List<int> { 1, 2, 3, 4, 5 };
+            //var evenNumbers = numbers.Where(x => x % 2 == 0);
+            //foreach (var number in evenNumbers)
+            //{
+            //Console.WriteLine(number);
+
+            //}
+
+            //Action<string> printMessage = message => Console.WriteLine(message);
+            //printMessage("Hello, Lambda!"); // 输出：Hello, Lambda!
+
+            string[] names = { "Alice", "Bob", "Charlie", "David" };
+            var result = from name in names
+                         where name.Contains("a")
+                         select name;
+
+            var result1 = names.Where(x => x.ToLower().Contains("av"));
+            foreach ( var result2 in result1)
+            {
+                Console.WriteLine(result2);
+            }
+
+
+            string from = "60";
+            from.Replace(newChar: ((num % intValue3 == 0) ? (num % intValue3 + intValue3) : (num % intValue3)).ToString()[0], oldChar: from[0]);
+            Console.WriteLine(from);
+
+            Console.WriteLine(string.Compare("haha", "hahA", ignoreCase: false));
         }
 
 
 
         static string value;
+        private static int num = 6;
+        private static int intValue3 = 4;
+
         public static string RunAisgDeviceScan(out string deviceType)
         {
             GetStatus(out deviceType, out value);
