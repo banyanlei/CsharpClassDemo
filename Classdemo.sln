@@ -59,7 +59,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Thread_Task_async_await", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deserialize_Json", "Deserialize_Json\Deserialize_Json.csproj", "{9EAEB426-5016-49F0-972C-0C4501D71887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Lazy2", "_Lazy2\_Lazy2.csproj", "{3B6EEF4C-04C6-46BC-96ED-083E957464F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Lazy2", "_Lazy2\_Lazy2.csproj", "{3B6EEF4C-04C6-46BC-96ED-083E957464F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Ivi_Visa_Interop", "_Ivi_Visa_Interop\_Ivi_Visa_Interop.csproj", "{5B7BEFF2-AEDB-413C-B4BA-4F7394B7454E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_ProgID", "_ProgID\_ProgID.csproj", "{690F9915-27F8-4198-9345-C2B9DF0A044D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,14 @@ Global
 		{3B6EEF4C-04C6-46BC-96ED-083E957464F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B6EEF4C-04C6-46BC-96ED-083E957464F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B6EEF4C-04C6-46BC-96ED-083E957464F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7BEFF2-AEDB-413C-B4BA-4F7394B7454E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7BEFF2-AEDB-413C-B4BA-4F7394B7454E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7BEFF2-AEDB-413C-B4BA-4F7394B7454E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7BEFF2-AEDB-413C-B4BA-4F7394B7454E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690F9915-27F8-4198-9345-C2B9DF0A044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690F9915-27F8-4198-9345-C2B9DF0A044D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690F9915-27F8-4198-9345-C2B9DF0A044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690F9915-27F8-4198-9345-C2B9DF0A044D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
