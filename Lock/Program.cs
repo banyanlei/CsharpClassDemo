@@ -33,10 +33,11 @@ namespace LeeCarry
             {
                 for (int i = 0; i <= 10000; i += 2)
                 {
-                    Console.WriteLine("线程1:{0}", i);
+                    Console.WriteLine("线程Even:{0}", i);
                     dic.Add(i, i.ToString());
                     //dic.TryAdd(i, i.ToString());
                 }
+                //这里执行完会自动放锁
             }
         }
 
@@ -54,7 +55,7 @@ namespace LeeCarry
                 //    Console.WriteLine("key:" + k.Key + " value:" + k.Value);
                 //}
                 int a = dic.FirstOrDefault(q => q.Value == "8888").Key;
-                Console.WriteLine("线程1:key:" + a);
+                Console.WriteLine("线程Odd:key:" + a);
             }
 
         }

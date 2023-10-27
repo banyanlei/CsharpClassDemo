@@ -24,6 +24,7 @@ namespace Lock2
         {
             try
             {
+                //timeout为等待获取锁，超时了就不等了继续往下执行
                 if (Monitor.TryEnter(obj1, 5000))
                 {
                     Console.WriteLine("开始执行方法一");
@@ -31,7 +32,7 @@ namespace Lock2
                     bool locked = false;
                     try
                     {
-                        Monitor.TryEnter(obj2, 5000, ref locked);
+                        Monitor.TryEnter(obj2, 1000, ref locked);
                         Console.WriteLine("方法一执行完毕");
                     }
                     finally
@@ -59,7 +60,7 @@ namespace Lock2
                     bool locked = false;
                     try
                     {
-                        Monitor.TryEnter(obj1, 5000, ref locked);
+                        Monitor.TryEnter(obj1, 50000, ref locked);
                         Console.WriteLine("方法二执行完毕");
                     }
                     finally

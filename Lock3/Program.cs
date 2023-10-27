@@ -15,6 +15,7 @@ namespace Lock3
         static void Main(string[] args)
         {
             Task.Run(() => Method1());
+            
             Task.Run(() => Method2());
             Console.Read();
         }
@@ -24,6 +25,10 @@ namespace Lock3
             {
                 Console.WriteLine("开始执行方法一");
                 Thread.Sleep(1000);
+
+                //这里如果释放obj1,method2就能获得obj1,避免死锁
+                Monitor.Exit(obj1);
+
                 lock (obj2)
                 {
                     Console.WriteLine("方法一执行完毕");

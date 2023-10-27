@@ -7,7 +7,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\Lock\bin\Debug\Lock.exe.config
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\bin\Debug\Lock.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\bin\Debug\Lock.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.csproj.AssemblyReference.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.csproj.SuggestedBindingRedirects.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\Lock\obj\Debug\Lock.pdb

@@ -4,7 +4,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.runtimeconfig.js
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.runtimeconfig.dev.json
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.dll
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.csproj.AssemblyReference.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.GeneratedMSBuildEditorConfig.editorconfig
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.AssemblyInfoInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.AssemblyInfo.cs
