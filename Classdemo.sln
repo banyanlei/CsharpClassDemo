@@ -109,11 +109,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自动属性和普通属性
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilliWindowsForms", "BilliWindowsForms\BilliWindowsForms\BilliWindowsForms.csproj", "{CFA5B6D2-8F3C-4EDE-9794-F07094F4CCA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp", "Temp\Temp.csproj", "{E04658A9-396A-4ABD-AFA2-10CF13364418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp", "Temp\Temp.csproj", "{E04658A9-396A-4ABD-AFA2-10CF13364418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Thread&lock file", "_Thread&lock file\_Thread&lock file.csproj", "{914C87A5-3083-4F34-AD70-3E4038A952DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Thread&lock file", "_Thread&lock file\_Thread&lock file.csproj", "{914C87A5-3083-4F34-AD70-3E4038A952DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_FTP", "_FTP\_FTP.csproj", "{54E90F63-C51A-4C5A-8B0E-2E547A2E8A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_FTP", "_FTP\_FTP.csproj", "{54E90F63-C51A-4C5A-8B0E-2E547A2E8A2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Split", "ConsoleApp1\_Split.csproj", "{1A7FDF8D-5AE7-47E1-841C-5C5291A31A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Struct", "_Struct\_Struct.csproj", "{79BBE685-0282-440A-BD6D-B8666A028E2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +349,14 @@ Global
 		{54E90F63-C51A-4C5A-8B0E-2E547A2E8A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E90F63-C51A-4C5A-8B0E-2E547A2E8A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E90F63-C51A-4C5A-8B0E-2E547A2E8A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7FDF8D-5AE7-47E1-841C-5C5291A31A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7FDF8D-5AE7-47E1-841C-5C5291A31A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7FDF8D-5AE7-47E1-841C-5C5291A31A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7FDF8D-5AE7-47E1-841C-5C5291A31A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BBE685-0282-440A-BD6D-B8666A028E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BBE685-0282-440A-BD6D-B8666A028E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BBE685-0282-440A-BD6D-B8666A028E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BBE685-0282-440A-BD6D-B8666A028E2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
