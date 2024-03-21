@@ -1,4 +1,3 @@
-C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda_SelectMany\obj\Debug\net5.0\_Lambda_SelectMany.csproj.AssemblyReference.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda_SelectMany\obj\Debug\net5.0\_Lambda_SelectMany.GeneratedMSBuildEditorConfig.editorconfig
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda_SelectMany\obj\Debug\net5.0\_Lambda_SelectMany.AssemblyInfoInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_Lambda_SelectMany\obj\Debug\net5.0\_Lambda_SelectMany.AssemblyInfo.cs

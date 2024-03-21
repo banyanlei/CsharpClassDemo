@@ -15,7 +15,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\bin\Debug\_test.exe.config
 C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\bin\Debug\_test.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\bin\Debug\_test.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.AssemblyReference.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.SuggestedBindingRedirects.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\obj\Debug\_test.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_YuSymbol\obj\Debug\_test.pdb

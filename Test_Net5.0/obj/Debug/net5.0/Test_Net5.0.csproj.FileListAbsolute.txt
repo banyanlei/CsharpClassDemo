@@ -4,7 +4,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\bin\Debug\net5.0\Test_Net5.0.runt
 C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\bin\Debug\net5.0\Test_Net5.0.runtimeconfig.dev.json
 C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\bin\Debug\net5.0\Test_Net5.0.dll
 C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\bin\Debug\net5.0\Test_Net5.0.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\obj\Debug\net5.0\Test_Net5.0.csproj.AssemblyReference.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\obj\Debug\net5.0\Test_Net5.0.GeneratedMSBuildEditorConfig.editorconfig
 C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\obj\Debug\net5.0\Test_Net5.0.AssemblyInfoInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\Test_Net5.0\obj\Debug\net5.0\Test_Net5.0.AssemblyInfo.cs

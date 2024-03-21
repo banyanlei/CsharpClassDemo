@@ -14,7 +14,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\bin\Debug\_delegate1.exe.config
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\bin\Debug\_delegate1.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\bin\Debug\_delegate1.pdb
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.csproj.AssemblyReference.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.csproj.SuggestedBindingRedirects.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.exe
 C:\CAYA\cy\c# test\CsharpClassDemo\_delegate1\obj\Debug\_delegate1.pdb

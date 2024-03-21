@@ -4,7 +4,6 @@ C:\CAYA\cy\c# test\CsharpClassDemo\_async\bin\Debug\net5.0\_async.runtimeconfig.
 C:\CAYA\cy\c# test\CsharpClassDemo\_async\bin\Debug\net5.0\_async.runtimeconfig.dev.json
 C:\CAYA\cy\c# test\CsharpClassDemo\_async\bin\Debug\net5.0\_async.dll
 C:\CAYA\cy\c# test\CsharpClassDemo\_async\bin\Debug\net5.0\_async.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\_async\obj\Debug\net5.0\_async.csproj.AssemblyReference.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_async\obj\Debug\net5.0\_async.GeneratedMSBuildEditorConfig.editorconfig
 C:\CAYA\cy\c# test\CsharpClassDemo\_async\obj\Debug\net5.0\_async.AssemblyInfoInputs.cache
 C:\CAYA\cy\c# test\CsharpClassDemo\_async\obj\Debug\net5.0\_async.AssemblyInfo.cs
