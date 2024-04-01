@@ -123,9 +123,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqliteDemo", "SqliteDemo\Sq
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async_Semaphore", "Async_Semaphore\Async_Semaphore.csproj", "{6F7B775C-F9E8-4931-B6A0-C26CA8BB813B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{2360FB58-E2E8-4363-B18B-5F9E60A294CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async", "Async\Async.csproj", "{2360FB58-E2E8-4363-B18B-5F9E60A294CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_await2", "_await2\_await2.csproj", "{EB76BA03-2447-4E8F-923C-2D0EE7597A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_await2", "_await2\_await2.csproj", "{EB76BA03-2447-4E8F-923C-2D0EE7597A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrcCalculator", "CrcCalculator\CrcCalculator.csproj", "{BC2B7680-371A-4861-8EAC-1349A9F83A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,6 +383,10 @@ Global
 		{EB76BA03-2447-4E8F-923C-2D0EE7597A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB76BA03-2447-4E8F-923C-2D0EE7597A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB76BA03-2447-4E8F-923C-2D0EE7597A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2B7680-371A-4861-8EAC-1349A9F83A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2B7680-371A-4861-8EAC-1349A9F83A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2B7680-371A-4861-8EAC-1349A9F83A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2B7680-371A-4861-8EAC-1349A9F83A5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
