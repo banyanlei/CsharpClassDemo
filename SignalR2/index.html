@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SignalR Chat Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.4.2.min.js"></script>
+    <script src="~/signalr/hubs"></script>
+</head>
+<body>
+    <input type="text" id="name" placeholder="Enter your name" /><input type="text" id="message" placeholder="Enter your message" /><input type="button" id="send" value="Send" /><ul id="messages"></ul>
+    <script>
+        $(function () {
+            // 创建SignalR连接var chatHub = $.connection.chatHub;
+
+            // 定义客户端的广播消息处理函数            chatHub.client.broadcastMessage = function (name, message) {
+                $('#messages').append('<li><strong>' + name + '</strong>: ' + message + '</li>');
+            };
+            // 启动SignalR连接            $.connection.hub.start().done(function () {
+                $('#send').click(function () {
+                    // 发送消息给服务器
+chatHub.server.sendMessage($('#name').val(), $('#message').val());
+});
+});
+});
+    </script>
+</body>
+</html>
