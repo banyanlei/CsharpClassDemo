@@ -5,6 +5,7 @@ class Program
     static void Main()
     {
         string progID = "Excel.Application.16"; // ProgID for Microsoft Excel
+        //string progID = "IviConfigserver"; // ProgID for Microsoft Excel
         Type excelType = Type.GetTypeFromProgID(progID, throwOnError: false);
 
         if (excelType != null)

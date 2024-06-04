@@ -11,13 +11,6 @@ C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.c
 C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.CoreCompileInputs.cache
 C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.exe
 C:\CAYA\cy\c# test\classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe.config
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.AssemblyReference.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.CoreCompileInputs.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.exe
-C:\CAYA\cy\c# test\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.pdb
 F:\C# test\Classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe.config
 F:\C# test\Classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe
 F:\C# test\Classdemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.pdb

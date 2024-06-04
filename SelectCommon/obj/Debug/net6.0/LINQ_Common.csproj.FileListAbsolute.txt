@@ -1,17 +1,3 @@
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.exe
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.deps.json
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.runtimeconfig.json
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.dll
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.AssemblyInfoInputs.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.AssemblyInfo.cs
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.csproj.CoreCompileInputs.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.dll
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\refint\LINQ_Common.dll
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\LINQ_Common.genruntimeconfig.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\SelectCommon\obj\Debug\net6.0\ref\LINQ_Common.dll
 F:\C# test\Classdemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.exe
 F:\C# test\Classdemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.deps.json
 F:\C# test\Classdemo\SelectCommon\bin\Debug\net6.0\LINQ_Common.runtimeconfig.json

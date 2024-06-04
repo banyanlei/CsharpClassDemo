@@ -3,13 +3,6 @@ F:\C# test\Classdemo\Lock3\bin\Debug\Lock3.exe
 F:\C# test\Classdemo\Lock3\bin\Debug\Lock3.pdb
 F:\C# test\Classdemo\Lock3\obj\Debug\Lock3.exe
 F:\C# test\Classdemo\Lock3\obj\Debug\Lock3.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\bin\Debug\Lock3.exe.config
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\bin\Debug\Lock3.exe
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\bin\Debug\Lock3.pdb
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\obj\Debug\Lock3.csproj.AssemblyReference.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\obj\Debug\Lock3.csproj.CoreCompileInputs.cache
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\obj\Debug\Lock3.exe
-C:\CAYA\cy\c# test\CsharpClassDemo\Lock3\obj\Debug\Lock3.pdb
 F:\C# test\Classdemo\Lock3\obj\Debug\Lock3.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\Lock3\obj\Debug\Lock3.csproj.SuggestedBindingRedirects.cache
 F:\C# test\Classdemo\Lock3\obj\Debug\Lock3.csproj.CoreCompileInputs.cache
