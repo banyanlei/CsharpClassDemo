@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -126,23 +127,65 @@ namespace _test
             //    Console.WriteLine("一样");
             //}
 
-            MyClass obj1 = new MyClass();
-            obj1.MyProperty = 10;
+            //MyClass obj1 = new MyClass();
+            //obj1.MyProperty = 10;
 
-            Console.WriteLine(obj1.MyProperty); // 输出 10
+            //Console.WriteLine(obj1.MyProperty); // 输出 10
 
-            // 重新使用同名对象
-            if (obj1 == null)
+            //// 重新使用同名对象
+            //if (obj1 == null)
+            //{
+            //    obj1 = new MyClass();
+            //    obj1.MyProperty = 20;
+            //}
+
+
+            //Console.WriteLine(obj1.MyProperty); // 输出 20
+
+            //string aa = "##  hahaha  ## ha";
+            ////Console.WriteLine(aa.TrimStart('#').Trim());
+            ///
+            byte[] a = { 1, 2, 3, 4, 5, 6, 7 };
+            //byte[] a = File.ReadAllBytes(@"C:\Temp\files.rc");
+            string fileText = Encoding.UTF8.GetString(a);
+            Console.WriteLine(a);
+            string str = System.Text.Encoding.UTF8.GetString(a);
+            Console.WriteLine(str);
+            Console.WriteLine("aa");
+            Console.WriteLine(string.Join(" ", a));
+            string filePath = @"C:\Temp\buffer.txt";
+            Directory.CreateDirectory(Path.GetDirectoryName(filePath));
+            int chunkSize = 4; // 每次处理的块大小
+            int totalChunks = (int)Math.Ceiling((double)a.Length / chunkSize);
+
+            // 将字节数组写入文件
+            //File.WriteAllBytes(filePath, a);
+            //File.WriteAllText(filePath, string.Join(" ", a));
+            //using (StreamWriter writer = new StreamWriter(filePath))
+            using (FileStream fs = new FileStream(filePath, FileMode.Create, FileAccess.Write))
+            using (StreamWriter writer = new StreamWriter(fs))
             {
-                obj1 = new MyClass();
-                obj1.MyProperty = 20;
+                for (int i = 0; i < a.Length; i += chunkSize)
+                {
+                    int length = Math.Min(chunkSize, a.Length - i);
+                    for (int j = 0; j < length; j++)
+                    {
+                        writer.Write(a[i + j]);
+                        if (j < length - 1)
+                        {
+                            writer.Write(" ");
+                        }
+                    }
+                    writer.Write(" ");
+                    //// 加入分隔符（如换行符）以区分块
+                    //if (i + chunkSize < a.Length)
+                    //{
+                    //    writer.Write(Environment.NewLine);
+                    //}
+                }
             }
 
-
-            Console.WriteLine(obj1.MyProperty); // 输出 20
-
-            string aa = "##  hahaha  ## ha";
-            //Console.WriteLine(aa.TrimStart('#').Trim());
+            Console.WriteLine("Byte array has been written to \"C:\\Temp\\buffer.txt\".");
 
         }
         private static object fileLock = new object();
