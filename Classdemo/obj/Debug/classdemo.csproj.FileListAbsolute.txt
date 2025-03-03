@@ -27,3 +27,5 @@ F:\C# test\Classdemo\classdemo\bin\Debug\classdemo.pdb
 F:\C# test\Classdemo\classdemo\obj\Debug\classdemo.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\classdemo\obj\Debug\classdemo.csproj.SuggestedBindingRedirects.cache
 F:\C# test\Classdemo\classdemo\obj\Debug\classdemo.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\classdemo\obj\Debug\classdemo.csproj.AssemblyReference.cache
+C:\CAYA\cy\c# test\CsharpClassDemo\classdemo\obj\Debug\classdemo.csproj.CoreCompileInputs.cache
