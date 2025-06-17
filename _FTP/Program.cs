@@ -21,7 +21,7 @@ class Program
     static void FtpUpload(string path)
     {
         //string ipAddress = "10.32.25.19";
-        string ipAddress = "10.32.25.95";
+        string ipAddress = "192.168.1.118";
         var ping = new Ping();
         var res = ping.Send(ipAddress, 500);
         if (res.Status != IPStatus.Success)

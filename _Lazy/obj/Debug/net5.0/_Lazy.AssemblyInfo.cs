@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_Lazy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4797a6d20ca91735a70d77a0d1e2ac2f930f3f42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f9890bf72940db0c3e4e7954c3bd5b825deab7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("_Lazy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_Lazy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
