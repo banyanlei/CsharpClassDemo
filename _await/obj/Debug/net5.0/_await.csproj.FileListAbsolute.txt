@@ -14,3 +14,19 @@ F:\C# test\Classdemo\_await\obj\Debug\net5.0\refint\_await.dll
 F:\C# test\Classdemo\_await\obj\Debug\net5.0\_await.pdb
 F:\C# test\Classdemo\_await\obj\Debug\net5.0\_await.genruntimeconfig.cache
 F:\C# test\Classdemo\_await\obj\Debug\net5.0\ref\_await.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\bin\Debug\net5.0\_await.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\bin\Debug\net5.0\_await.deps.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\bin\Debug\net5.0\_await.runtimeconfig.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\bin\Debug\net5.0\_await.runtimeconfig.dev.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\bin\Debug\net5.0\_await.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\bin\Debug\net5.0\_await.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.AssemblyInfoInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.AssemblyInfo.cs
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.sourcelink.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\refint\_await.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\_await.genruntimeconfig.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_await\obj\Debug\net5.0\ref\_await.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_Lambda_SelectMany")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f9890bf72940db0c3e4e7954c3bd5b825deab7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ba49fd16a1cbf1fb29ee508e9723ca60e2b7fab")]
 [assembly: System.Reflection.AssemblyProductAttribute("_Lambda_SelectMany")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_Lambda_SelectMany")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

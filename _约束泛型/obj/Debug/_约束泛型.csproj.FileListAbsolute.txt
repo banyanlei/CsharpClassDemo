@@ -20,3 +20,10 @@ F:\C# test\Classdemo\_约束泛型\obj\Debug\_约束泛型.pdb
 F:\C# test\Classdemo\_约束泛型\obj\Debug\_约束泛型.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\_约束泛型\obj\Debug\_约束泛型.csproj.SuggestedBindingRedirects.cache
 F:\C# test\Classdemo\_约束泛型\obj\Debug\_约束泛型.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\bin\Debug\_约束泛型.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\bin\Debug\_约束泛型.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\bin\Debug\_约束泛型.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\obj\Debug\_约束泛型.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\obj\Debug\_约束泛型.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\obj\Debug\_约束泛型.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_约束泛型\obj\Debug\_约束泛型.pdb

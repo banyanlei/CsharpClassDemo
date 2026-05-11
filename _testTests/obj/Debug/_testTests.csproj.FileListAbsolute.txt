@@ -22,3 +22,14 @@ F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.dll
 F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.pdb
 F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\_testTests\obj\Debug\_testTests.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\bin\Debug\_testTests.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\bin\Debug\_testTests.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\bin\Debug\_test.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\bin\Debug\_test.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\bin\Debug\_test.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\obj\Debug\_testTests.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\obj\Debug\_testTests.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\obj\Debug\_testTests.csproj.Up2Date
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\obj\Debug\_testTests.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testTests\obj\Debug\_testTests.pdb

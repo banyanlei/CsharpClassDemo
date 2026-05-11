@@ -6,3 +6,10 @@ F:\C# test\Classdemo\Lock2\obj\Debug\Lock2.pdb
 F:\C# test\Classdemo\Lock2\obj\Debug\Lock2.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\Lock2\obj\Debug\Lock2.csproj.SuggestedBindingRedirects.cache
 F:\C# test\Classdemo\Lock2\obj\Debug\Lock2.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\bin\Debug\Lock2.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\bin\Debug\Lock2.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\bin\Debug\Lock2.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\obj\Debug\Lock2.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\obj\Debug\Lock2.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\obj\Debug\Lock2.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\Lock2\obj\Debug\Lock2.pdb

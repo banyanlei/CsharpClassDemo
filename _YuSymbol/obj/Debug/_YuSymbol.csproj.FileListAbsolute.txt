@@ -19,3 +19,10 @@ F:\C# test\Classdemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.SuggestedBindingRedire
 F:\C# test\Classdemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.CoreCompileInputs.cache
 F:\C# test\Classdemo\_YuSymbol\obj\Debug\_test.exe
 F:\C# test\Classdemo\_YuSymbol\obj\Debug\_test.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\bin\Debug\_test.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\bin\Debug\_test.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\bin\Debug\_test.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\obj\Debug\_YuSymbol.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\obj\Debug\_test.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_YuSymbol\obj\Debug\_test.pdb

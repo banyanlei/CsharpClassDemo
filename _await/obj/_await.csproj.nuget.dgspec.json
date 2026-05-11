@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_await\\_await.csproj": {}
+    "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_await\\_await.csproj": {}
   },
   "projects": {
-    "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_await\\_await.csproj": {
+    "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_await\\_await.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_await\\_await.csproj",
+        "projectUniqueName": "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_await\\_await.csproj",
         "projectName": "_await",
-        "projectPath": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_await\\_await.csproj",
+        "projectPath": "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_await\\_await.csproj",
         "packagesPath": "C:\\Users\\caya\\.nuget\\packages\\",
-        "outputPath": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_await\\obj\\",
+        "outputPath": "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_await\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

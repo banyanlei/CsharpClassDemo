@@ -19,3 +19,10 @@ F:\C# test\Classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.Su
 F:\C# test\Classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.CoreCompileInputs.cache
 F:\C# test\Classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.exe
 F:\C# test\Classdemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\bin\Debug\_PropertiesAbstract.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_PropertiesAbstract\obj\Debug\_PropertiesAbstract.pdb

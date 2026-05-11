@@ -20,3 +20,14 @@ F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.pdb
 F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csproj.SuggestedBindingRedirects.cache
 F:\C# test\Classdemo\_Lambda\obj\Debug\_Lambda.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\bin\Debug\_Lambda.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\bin\Debug\_Lambda.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\bin\Debug\_Lambda.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\bin\Debug\Interface_definition.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\bin\Debug\Interface_definition.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\bin\Debug\Interface_definition.dll.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.csproj.Up2Date
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lambda\obj\Debug\_Lambda.pdb

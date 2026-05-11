@@ -13,3 +13,10 @@ F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.pdb
 F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csproj.AssemblyReference.cache
 F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csproj.SuggestedBindingRedirects.cache
 F:\C# test\Classdemo\_testEXE\obj\Debug\_testEXE.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\bin\Debug\_testEXE.exe.config
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\bin\Debug\_testEXE.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\bin\Debug\_testEXE.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.csproj.AssemblyReference.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_testEXE\obj\Debug\_testEXE.pdb

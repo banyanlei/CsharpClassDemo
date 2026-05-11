@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj": {}
+    "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj": {}
   },
   "projects": {
-    "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj": {
+    "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj",
+        "projectUniqueName": "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj",
         "projectName": "_Lambda_SelectMany",
-        "projectPath": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj",
+        "projectPath": "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_Lambda_SelectMany\\_Lambda_SelectMany.csproj",
         "packagesPath": "C:\\Users\\caya\\.nuget\\packages\\",
-        "outputPath": "C:\\CAYA\\cy\\c# test\\CsharpClassDemo\\_Lambda_SelectMany\\obj\\",
+        "outputPath": "C:\\CAYA\\cy\\CsharpTest\\CsharpClassDemo\\_Lambda_SelectMany\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

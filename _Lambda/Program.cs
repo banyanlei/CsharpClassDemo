@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Interface_definition;
+using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -36,7 +38,7 @@ namespace _Lambda
         }
     }
 
-    public class People
+    public class People : IPerson
     {
         public int age { get; set; }                //设置属性  
         public string name { get; set; }            //设置属性  
@@ -46,4 +48,5 @@ namespace _Lambda
             this.name = name;               //初始化属性值name  
         }
     }
+
 }

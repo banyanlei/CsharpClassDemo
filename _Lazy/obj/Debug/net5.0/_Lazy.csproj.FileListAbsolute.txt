@@ -14,3 +14,19 @@ F:\C# test\Classdemo\_Lazy\obj\Debug\net5.0\refint\_Lazy.dll
 F:\C# test\Classdemo\_Lazy\obj\Debug\net5.0\_Lazy.pdb
 F:\C# test\Classdemo\_Lazy\obj\Debug\net5.0\_Lazy.genruntimeconfig.cache
 F:\C# test\Classdemo\_Lazy\obj\Debug\net5.0\ref\_Lazy.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.exe
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.deps.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.runtimeconfig.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.runtimeconfig.dev.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\bin\Debug\net5.0\_Lazy.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.AssemblyInfoInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.AssemblyInfo.cs
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.csproj.CoreCompileInputs.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.sourcelink.json
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\refint\_Lazy.dll
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.pdb
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\_Lazy.genruntimeconfig.cache
+C:\CAYA\cy\CsharpTest\CsharpClassDemo\_Lazy\obj\Debug\net5.0\ref\_Lazy.dll
